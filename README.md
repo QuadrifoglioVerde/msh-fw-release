@@ -5,4 +5,4 @@ Provedené úpravy:
 - Čas z GPS až je validní lokace 
 - Možnost Neighbor Info přes LoRa na výchozím kanále
 - OLED - Znaková sada CS
-- od 2.6.8 je ve FW přidaná podmínka should_report_location, ta je zde odstraněna
+- od 2.6.8 je ve FW přidaná podmínka should_report_location co brání mapreportu na MQTT, ta je zde odstraněna
