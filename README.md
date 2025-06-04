@@ -1,3 +1,6 @@
+Poslední verze: <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.6.10.97c01fc" target="_blank">v2.6.10</a>
+
+
 Repozitář s binárkami pro zařízení Meshtastic
 
 Provedené úpravy:
