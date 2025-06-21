@@ -10,3 +10,4 @@ Provedené úpravy:
 - Podpora češtiny na OLED - Znaková sada CS
 - od 2.6.8 je ve FW přidaná podmínka should_report_location co brání mapreportu na MQTT, ta je zde odstraněna
 - od 2.6.9 je omezena presnost pozice mapreportu, vraceno na stare hodnoty, uzivatel si snad sam muze rict co svetu povi a neni potreba mu neco vnucovat 🙄
+- výchozí MQTT server je mqtt.aperturelab.cz
