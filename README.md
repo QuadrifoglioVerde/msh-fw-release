@@ -12,7 +12,3 @@ Provedené úpravy:
 - Čas z GPS až je validní lokace 
 - Možnost Neighbor Info přes LoRa na výchozím kanále
 - Podpora češtiny na OLED - Znaková sada CS
-- výchozí MQTT server je mqtt.aperturelab.cz
-
-
-
