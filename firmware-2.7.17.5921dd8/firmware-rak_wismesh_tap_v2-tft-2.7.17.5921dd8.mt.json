@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "rak_wismesh_tap_v2-tft",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak_wismesh_tap_v2-tft-2.7.17.5921dd8.elf",
+      "md5": "2677e70ea2b67e00040434a0329890b9",
+      "bytes": 24443156
+    },
+    {
+      "name": "firmware-rak_wismesh_tap_v2-tft-2.7.17.5921dd8.bin",
+      "md5": "a78c974ad1c002305e5fdd8eb7022d4f",
+      "bytes": 3319424
+    },
+    {
+      "name": "firmware-rak_wismesh_tap_v2-tft-2.7.17.5921dd8.factory.bin",
+      "md5": "61d1e191e0476e885e08e587d119266c",
+      "bytes": 3384960
+    },
+    {
+      "name": "littlefs-rak_wismesh_tap_v2-tft-2.7.17.5921dd8.bin",
+      "md5": "5b7b3d9365d947f496408bc28db239d6",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false
+}

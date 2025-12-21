@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "rak4631_eink",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak4631_eink-2.7.17.5921dd8.elf",
+      "md5": "2e235489b9ecba8d20432df7e7c81f08",
+      "bytes": 1295020
+    },
+    {
+      "name": "firmware-rak4631_eink-2.7.17.5921dd8.hex",
+      "md5": "c9edfcf7c486915ab19d1c2d0783d328",
+      "bytes": 1914129
+    },
+    {
+      "name": "firmware-rak4631_eink-2.7.17.5921dd8.uf2",
+      "md5": "32cd19e65f01a2cc41850ce6780df159",
+      "bytes": 1361408
+    },
+    {
+      "name": "firmware-rak4631_eink-2.7.17.5921dd8.zip",
+      "md5": "965ce577a64d01111f432f308e11a455",
+      "bytes": 681467
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

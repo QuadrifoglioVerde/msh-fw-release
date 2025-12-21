@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "tracker-t1000-e",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tracker-t1000-e-2.7.17.5921dd8.elf",
+      "md5": "4b80d5b3a2aa6d4c916df72dff91f559",
+      "bytes": 857512
+    },
+    {
+      "name": "firmware-tracker-t1000-e-2.7.17.5921dd8.hex",
+      "md5": "61d8e59fca6f6f02d59d011a147d3659",
+      "bytes": 1225218
+    },
+    {
+      "name": "firmware-tracker-t1000-e-2.7.17.5921dd8.uf2",
+      "md5": "d2bf819e13fffe82962af9f3137dcb9d",
+      "bytes": 871424
+    },
+    {
+      "name": "firmware-tracker-t1000-e-2.7.17.5921dd8.zip",
+      "md5": "d0e6230788989939cac108f59791ca8f",
+      "bytes": 436557
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

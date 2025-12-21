@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "tbeam-s3-core",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tbeam-s3-core-2.7.17.5921dd8.elf",
+      "md5": "1d52c7c71d7f47040c3ec9a1b612bf32",
+      "bytes": 22726512
+    },
+    {
+      "name": "firmware-tbeam-s3-core-2.7.17.5921dd8.bin",
+      "md5": "95aaa7f8e451913a4ce3a6ebf9efe9ac",
+      "bytes": 2133280
+    },
+    {
+      "name": "firmware-tbeam-s3-core-2.7.17.5921dd8.factory.bin",
+      "md5": "e8b241400731c9d9b47d4ec939374b76",
+      "bytes": 2198816
+    },
+    {
+      "name": "littlefs-tbeam-s3-core-2.7.17.5921dd8.bin",
+      "md5": "13a613661ce3f6aafe11115e509d7ef7",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

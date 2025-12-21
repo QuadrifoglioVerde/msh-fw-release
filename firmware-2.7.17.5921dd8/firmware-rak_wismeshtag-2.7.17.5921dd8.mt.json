@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "rak_wismeshtag",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak_wismeshtag-2.7.17.5921dd8.elf",
+      "md5": "773aca81ae6549c2d799d6607d3a2770",
+      "bytes": 1282588
+    },
+    {
+      "name": "firmware-rak_wismeshtag-2.7.17.5921dd8.hex",
+      "md5": "debbbef298f6a945668e7e238ee4621d",
+      "bytes": 1877139
+    },
+    {
+      "name": "firmware-rak_wismeshtag-2.7.17.5921dd8.uf2",
+      "md5": "4bf01bbd658aa55eaa934464e62308e4",
+      "bytes": 1334784
+    },
+    {
+      "name": "firmware-rak_wismeshtag-2.7.17.5921dd8.zip",
+      "md5": "6a647ea12f2e65784d95934c71cfddeb",
+      "bytes": 668327
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

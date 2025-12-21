@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "tlora-v2-1-1_6",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tlora-v2-1-1_6-2.7.17.5921dd8.elf",
+      "md5": "334a5365b42a028ab23482e22421269a",
+      "bytes": 20539044
+    },
+    {
+      "name": "firmware-tlora-v2-1-1_6-2.7.17.5921dd8.bin",
+      "md5": "d130eb6779ad75122862f7074fd21fd2",
+      "bytes": 2210864
+    },
+    {
+      "name": "firmware-tlora-v2-1-1_6-2.7.17.5921dd8.factory.bin",
+      "md5": "849aed2e95cd52b6a159e92aec095810",
+      "bytes": 2276400
+    },
+    {
+      "name": "littlefs-tlora-v2-1-1_6-2.7.17.5921dd8.bin",
+      "md5": "a6e3c8900eacebea98354dc883a045f9",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

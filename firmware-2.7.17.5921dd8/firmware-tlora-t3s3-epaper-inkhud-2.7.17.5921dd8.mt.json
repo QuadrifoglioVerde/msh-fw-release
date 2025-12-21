@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "tlora-t3s3-epaper-inkhud",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.17.5921dd8.elf",
+      "md5": "c2b703271495bc724e9cb53353918dda",
+      "bytes": 23130204
+    },
+    {
+      "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.17.5921dd8.bin",
+      "md5": "e15363748ad91ab74370f21d8c12e92a",
+      "bytes": 2155376
+    },
+    {
+      "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.17.5921dd8.factory.bin",
+      "md5": "88eb8d6f6e536552e9222a77b80b7800",
+      "bytes": 2220912
+    },
+    {
+      "name": "littlefs-tlora-t3s3-epaper-inkhud-2.7.17.5921dd8.bin",
+      "md5": "d414a7224087c270d039810d6e2d69b4",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true
+}

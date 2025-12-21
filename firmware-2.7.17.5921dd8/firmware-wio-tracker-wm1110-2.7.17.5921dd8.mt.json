@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "wio-tracker-wm1110",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-wio-tracker-wm1110-2.7.17.5921dd8.elf",
+      "md5": "ad638f47e85e8bde0b221f79b9850a08",
+      "bytes": 1280080
+    },
+    {
+      "name": "firmware-wio-tracker-wm1110-2.7.17.5921dd8.hex",
+      "md5": "bbb2e54cd0a53e687822b7ae189a4d48",
+      "bytes": 1858824
+    },
+    {
+      "name": "firmware-wio-tracker-wm1110-2.7.17.5921dd8.uf2",
+      "md5": "2fd738f44ceaca75f600672c49050a1d",
+      "bytes": 1321984
+    },
+    {
+      "name": "firmware-wio-tracker-wm1110-2.7.17.5921dd8.zip",
+      "md5": "29195d6e004706bf584849e5836f4bda",
+      "bytes": 661839
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

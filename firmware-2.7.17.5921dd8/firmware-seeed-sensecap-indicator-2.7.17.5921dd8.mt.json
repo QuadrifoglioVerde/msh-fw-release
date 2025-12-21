@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.5921dd8",
+  "build_epoch": 1766275200,
+  "board": "seeed-sensecap-indicator",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-seeed-sensecap-indicator-2.7.17.5921dd8.elf",
+      "md5": "075a1ec6145a70df1480081928271206",
+      "bytes": 22047272
+    },
+    {
+      "name": "firmware-seeed-sensecap-indicator-2.7.17.5921dd8.bin",
+      "md5": "01d16a4f76a376431fe45edbc47d262a",
+      "bytes": 2079152
+    },
+    {
+      "name": "firmware-seeed-sensecap-indicator-2.7.17.5921dd8.factory.bin",
+      "md5": "af83d72f8b2e5e871b396b72c96bbc96",
+      "bytes": 2144688
+    },
+    {
+      "name": "littlefs-seeed-sensecap-indicator-2.7.17.5921dd8.bin",
+      "md5": "4a2c6f56ce5b48f282b9c5ee9b1f29fd",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x5C0000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x5D0000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": null
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}
