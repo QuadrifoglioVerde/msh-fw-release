@@ -1,0 +1,73 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "tlora-t3s3-v1",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tlora-t3s3-v1-2.7.18.42ba3a2.elf",
+      "md5": "9b76dc76cfc0beb36af8bab055f9d896",
+      "bytes": 23322332
+    },
+    {
+      "name": "firmware-tlora-t3s3-v1-2.7.18.42ba3a2.bin",
+      "md5": "08d23097f0f572b5de34b7208047c9da",
+      "bytes": 2239120
+    },
+    {
+      "name": "firmware-tlora-t3s3-v1-2.7.18.42ba3a2.factory.bin",
+      "md5": "22f7114a9f29d6b916efaf1fa1fb45a2",
+      "bytes": 2304656
+    },
+    {
+      "name": "littlefs-tlora-t3s3-v1-2.7.18.42ba3a2.bin",
+      "md5": "e8ddcce24ff64eac1ff742abb0074b1c",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

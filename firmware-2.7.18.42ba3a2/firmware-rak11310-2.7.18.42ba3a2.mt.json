@@ -1,0 +1,27 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "rak11310",
+  "mcu": "rp2040",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak11310-2.7.18.42ba3a2.elf",
+      "md5": "e9ce204234687905c084dfe2ef4522a6",
+      "bytes": 9970884
+    },
+    {
+      "name": "firmware-rak11310-2.7.18.42ba3a2.bin",
+      "md5": "3875914db4518d3935a9824b09df2436",
+      "bytes": 956540
+    },
+    {
+      "name": "firmware-rak11310-2.7.18.42ba3a2.uf2",
+      "md5": "b291fe0563d8190571a2b249137ef59f",
+      "bytes": 1913344
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

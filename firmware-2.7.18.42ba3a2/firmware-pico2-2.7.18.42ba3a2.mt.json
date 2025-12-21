@@ -1,0 +1,27 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "pico2",
+  "mcu": "rp2350",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-pico2-2.7.18.42ba3a2.elf",
+      "md5": "3e807aeaced5c3edf395fe3a1e51f246",
+      "bytes": 9980460
+    },
+    {
+      "name": "firmware-pico2-2.7.18.42ba3a2.bin",
+      "md5": "aec7803954de8a3c3b9d2d1814fe742a",
+      "bytes": 926084
+    },
+    {
+      "name": "firmware-pico2-2.7.18.42ba3a2.uf2",
+      "md5": "d60842e0484cef58a5be57eca8d7f33e",
+      "bytes": 1852416
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

@@ -1,0 +1,32 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "thinknode_m3",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m3-2.7.18.42ba3a2.elf",
+      "md5": "e4fd75769016ffde50d671a524deb8fd",
+      "bytes": 1282968
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.18.42ba3a2.hex",
+      "md5": "b36e6362910e13064ad82b8a5bd25c8b",
+      "bytes": 1870045
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.18.42ba3a2.uf2",
+      "md5": "eb3026c53d69cb32565e0e8c48b57c12",
+      "bytes": 1329664
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.18.42ba3a2.zip",
+      "md5": "142d4884d40d31e58505b54eca872612",
+      "bytes": 665795
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

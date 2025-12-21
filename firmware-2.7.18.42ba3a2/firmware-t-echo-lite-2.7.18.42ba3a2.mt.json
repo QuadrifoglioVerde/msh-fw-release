@@ -1,0 +1,32 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "t-echo-lite",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-t-echo-lite-2.7.18.42ba3a2.elf",
+      "md5": "75f5936c8fa5eb6a162b36100baa1dad",
+      "bytes": 1292472
+    },
+    {
+      "name": "firmware-t-echo-lite-2.7.18.42ba3a2.hex",
+      "md5": "ad978035d61eb270849bd5f85a5c3ae4",
+      "bytes": 1901095
+    },
+    {
+      "name": "firmware-t-echo-lite-2.7.18.42ba3a2.uf2",
+      "md5": "4a4113382a491259617d24acc98ee85f",
+      "bytes": 1352192
+    },
+    {
+      "name": "firmware-t-echo-lite-2.7.18.42ba3a2.zip",
+      "md5": "9c1321967ef24731f892e297083be5f8",
+      "bytes": 676829
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

@@ -1,0 +1,81 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "station-g2",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-station-g2-2.7.18.42ba3a2.elf",
+      "md5": "3bf560fecc150d820bed8d05c41be281",
+      "bytes": 22343972
+    },
+    {
+      "name": "firmware-station-g2-2.7.18.42ba3a2.bin",
+      "md5": "17ea44a0157359ffa11054e32855f190",
+      "bytes": 2059936
+    },
+    {
+      "name": "firmware-station-g2-2.7.18.42ba3a2.factory.bin",
+      "md5": "f869a64c9788b7f2c1f079b6d79d22da",
+      "bytes": 2125472
+    },
+    {
+      "name": "littlefs-station-g2-2.7.18.42ba3a2.bin",
+      "md5": "bba97d2fd812da4ec322f6dd900c3e96",
+      "bytes": 3538944
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

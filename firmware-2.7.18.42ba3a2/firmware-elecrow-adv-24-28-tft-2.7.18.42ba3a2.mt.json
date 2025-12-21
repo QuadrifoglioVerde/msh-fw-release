@@ -1,0 +1,81 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "elecrow-adv-24-28-tft",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-elecrow-adv-24-28-tft-2.7.18.42ba3a2.elf",
+      "md5": "0ffa3d29b330ba0defd41337d2a43ac9",
+      "bytes": 23137544
+    },
+    {
+      "name": "firmware-elecrow-adv-24-28-tft-2.7.18.42ba3a2.bin",
+      "md5": "1525f0cd741ed4bffe5b3bb1ee9962e0",
+      "bytes": 3168064
+    },
+    {
+      "name": "firmware-elecrow-adv-24-28-tft-2.7.18.42ba3a2.factory.bin",
+      "md5": "d7bcc3b50feaf4c6dfb76937df856ff4",
+      "bytes": 3233600
+    },
+    {
+      "name": "littlefs-elecrow-adv-24-28-tft-2.7.18.42ba3a2.bin",
+      "md5": "8b7364e22f9ca82455e520576399c399",
+      "bytes": 3538944
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false
+}

@@ -1,0 +1,73 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "rak11200",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak11200-2.7.18.42ba3a2.elf",
+      "md5": "e3e50160252ffa83c13cb541ff20af68",
+      "bytes": 20694416
+    },
+    {
+      "name": "firmware-rak11200-2.7.18.42ba3a2.bin",
+      "md5": "a87a78ef175e0bfe25f5e62e3c68dd4b",
+      "bytes": 2230880
+    },
+    {
+      "name": "firmware-rak11200-2.7.18.42ba3a2.factory.bin",
+      "md5": "94b32ba8e8909118aede51ab6f8cbb67",
+      "bytes": 2296416
+    },
+    {
+      "name": "littlefs-rak11200-2.7.18.42ba3a2.bin",
+      "md5": "a075c305432ff1c782583e402302ed2b",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

@@ -1,0 +1,32 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "nrf52_promicro_diy_tcxo",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nrf52_promicro_diy_tcxo-2.7.18.42ba3a2.elf",
+      "md5": "97d4dade3ae77aae2984f76e0f6716cc",
+      "bytes": 1314048
+    },
+    {
+      "name": "firmware-nrf52_promicro_diy_tcxo-2.7.18.42ba3a2.hex",
+      "md5": "9bdd3d48933829b7f724a72219da4fec",
+      "bytes": 1995776
+    },
+    {
+      "name": "firmware-nrf52_promicro_diy_tcxo-2.7.18.42ba3a2.uf2",
+      "md5": "da98bf9c12aa74be6577dee321050780",
+      "bytes": 1419264
+    },
+    {
+      "name": "firmware-nrf52_promicro_diy_tcxo-2.7.18.42ba3a2.zip",
+      "md5": "abc3961c4296e06b5b893dd0412f83ed",
+      "bytes": 710557
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

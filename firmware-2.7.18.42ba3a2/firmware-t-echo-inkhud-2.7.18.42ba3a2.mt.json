@@ -1,0 +1,32 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "t-echo-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-t-echo-inkhud-2.7.18.42ba3a2.elf",
+      "md5": "0fb8772163d18dab65ea0acf3dea0ecc",
+      "bytes": 1181380
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.18.42ba3a2.hex",
+      "md5": "6d0ec764c44742726f1584a64b9b783f",
+      "bytes": 1743284
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.18.42ba3a2.uf2",
+      "md5": "b058ec2015304f38f938211c74c8f64c",
+      "bytes": 1239552
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.18.42ba3a2.zip",
+      "md5": "18d8aa508c06d08fe9a83529b4c72bd1",
+      "bytes": 620733
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": true
+}

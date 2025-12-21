@@ -1,0 +1,32 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "seeed_solar_node",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-seeed_solar_node-2.7.18.42ba3a2.elf",
+      "md5": "07f33481533a9f9c891532172c7af497",
+      "bytes": 1284848
+    },
+    {
+      "name": "firmware-seeed_solar_node-2.7.18.42ba3a2.hex",
+      "md5": "d2962d578e01592e74f9a98cf79f74ab",
+      "bytes": 1882719
+    },
+    {
+      "name": "firmware-seeed_solar_node-2.7.18.42ba3a2.uf2",
+      "md5": "3fd3309fd7e55377680af5d9de48da95",
+      "bytes": 1338880
+    },
+    {
+      "name": "firmware-seeed_solar_node-2.7.18.42ba3a2.zip",
+      "md5": "36c271769f1042cc3ea24c4d2c30c35e",
+      "bytes": 670322
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

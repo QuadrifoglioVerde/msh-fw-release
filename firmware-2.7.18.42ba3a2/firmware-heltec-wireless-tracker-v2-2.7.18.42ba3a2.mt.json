@@ -1,0 +1,81 @@
+{
+  "version": "2.7.18.42ba3a2",
+  "build_epoch": 1766275200,
+  "board": "heltec-wireless-tracker-v2",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-wireless-tracker-v2-2.7.18.42ba3a2.elf",
+      "md5": "1d182f01ff75434ba982113b1e3ce7ff",
+      "bytes": 22907096
+    },
+    {
+      "name": "firmware-heltec-wireless-tracker-v2-2.7.18.42ba3a2.bin",
+      "md5": "38c934a3010f6dfd54ec21b98bef0e02",
+      "bytes": 2113792
+    },
+    {
+      "name": "firmware-heltec-wireless-tracker-v2-2.7.18.42ba3a2.factory.bin",
+      "md5": "3627327928734c5c6b2daec247b5ff57",
+      "bytes": 2179328
+    },
+    {
+      "name": "littlefs-heltec-wireless-tracker-v2-2.7.18.42ba3a2.bin",
+      "md5": "5faa266dfe2c237b6cd81a0ab0e8edd5",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}
