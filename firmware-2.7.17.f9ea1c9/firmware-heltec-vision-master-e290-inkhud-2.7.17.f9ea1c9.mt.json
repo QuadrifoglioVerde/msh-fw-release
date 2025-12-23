@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "heltec-vision-master-e290-inkhud",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-vision-master-e290-inkhud-2.7.17.f9ea1c9.elf",
+      "md5": "8553e266f0b1311cb748cf8add7a27fa",
+      "bytes": 22434640
+    },
+    {
+      "name": "firmware-heltec-vision-master-e290-inkhud-2.7.17.f9ea1c9.bin",
+      "md5": "14655f243d18eb50cdce8eb75a904b4a",
+      "bytes": 2007088
+    },
+    {
+      "name": "firmware-heltec-vision-master-e290-inkhud-2.7.17.f9ea1c9.factory.bin",
+      "md5": "2ae0930bc2ba86826e9f891a5569ae67",
+      "bytes": 2072624
+    },
+    {
+      "name": "littlefs-heltec-vision-master-e290-inkhud-2.7.17.f9ea1c9.bin",
+      "md5": "5a1e5c4cd835169d2216042fc3bc83e7",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true
+}

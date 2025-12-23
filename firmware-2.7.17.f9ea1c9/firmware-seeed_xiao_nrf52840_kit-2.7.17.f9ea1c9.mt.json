@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "seeed_xiao_nrf52840_kit",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-seeed_xiao_nrf52840_kit-2.7.17.f9ea1c9.elf",
+      "md5": "dd0a792a9463124cc4f369997609bfe9",
+      "bytes": 1279676
+    },
+    {
+      "name": "firmware-seeed_xiao_nrf52840_kit-2.7.17.f9ea1c9.hex",
+      "md5": "5ee3330a8516b36904f051eba5b26f2a",
+      "bytes": 1867824
+    },
+    {
+      "name": "firmware-seeed_xiao_nrf52840_kit-2.7.17.f9ea1c9.uf2",
+      "md5": "b895ccfa8eb3079e5f3cfffda01d1101",
+      "bytes": 1328128
+    },
+    {
+      "name": "firmware-seeed_xiao_nrf52840_kit-2.7.17.f9ea1c9.zip",
+      "md5": "badb7bc421227c3841e22609de827499",
+      "bytes": 665069
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

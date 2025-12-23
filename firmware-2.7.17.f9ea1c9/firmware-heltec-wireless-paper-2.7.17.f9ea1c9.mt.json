@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "heltec-wireless-paper",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-wireless-paper-2.7.17.f9ea1c9.elf",
+      "md5": "e9ed870027fc7fa89206918dc050b1ab",
+      "bytes": 22058908
+    },
+    {
+      "name": "firmware-heltec-wireless-paper-2.7.17.f9ea1c9.bin",
+      "md5": "5bf4ea4c933f386c54d7de1d5346763a",
+      "bytes": 2045664
+    },
+    {
+      "name": "firmware-heltec-wireless-paper-2.7.17.f9ea1c9.factory.bin",
+      "md5": "f6a659d865abaf2c31b35aa37c5db95b",
+      "bytes": 2111200
+    },
+    {
+      "name": "littlefs-heltec-wireless-paper-2.7.17.f9ea1c9.bin",
+      "md5": "e5030825ecae7282264a6a867f391de7",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

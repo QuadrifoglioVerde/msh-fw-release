@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "tracksenger",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tracksenger-2.7.17.f9ea1c9.elf",
+      "md5": "470db7c4e86c0c27d95226dc72a1f76e",
+      "bytes": 22901632
+    },
+    {
+      "name": "firmware-tracksenger-2.7.17.f9ea1c9.bin",
+      "md5": "7fb7c7dff6f7736fc87d5f24b0eb323c",
+      "bytes": 2110784
+    },
+    {
+      "name": "firmware-tracksenger-2.7.17.f9ea1c9.factory.bin",
+      "md5": "0e26ee9d93e563a6c5ffb09413da85c5",
+      "bytes": 2176320
+    },
+    {
+      "name": "littlefs-tracksenger-2.7.17.f9ea1c9.bin",
+      "md5": "96debe9774597cc502e4b17b2911eb2a",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

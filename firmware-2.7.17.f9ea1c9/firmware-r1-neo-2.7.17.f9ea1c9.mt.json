@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "r1-neo",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-r1-neo-2.7.17.f9ea1c9.elf",
+      "md5": "8158906c8129a2e3a6967ece344ae9d7",
+      "bytes": 1056448
+    },
+    {
+      "name": "firmware-r1-neo-2.7.17.f9ea1c9.hex",
+      "md5": "e1949d06f4182a61ea2e1c5849f9ea31",
+      "bytes": 1504550
+    },
+    {
+      "name": "firmware-r1-neo-2.7.17.f9ea1c9.uf2",
+      "md5": "91fd87518845ccb669b4ff76bc2cc6b4",
+      "bytes": 1070080
+    },
+    {
+      "name": "firmware-r1-neo-2.7.17.f9ea1c9.zip",
+      "md5": "b18da67725266a45f4dce7ad7f35d682",
+      "bytes": 535815
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

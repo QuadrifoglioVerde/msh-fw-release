@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "rak3312",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak3312-2.7.17.f9ea1c9.elf",
+      "md5": "80e4dfcbea06a6b889d8748a725b5458",
+      "bytes": 22101480
+    },
+    {
+      "name": "firmware-rak3312-2.7.17.f9ea1c9.bin",
+      "md5": "e976f97ad38e9dc2c67329883cfde733",
+      "bytes": 2033744
+    },
+    {
+      "name": "firmware-rak3312-2.7.17.f9ea1c9.factory.bin",
+      "md5": "96486c8cb3f37ad27e70810947a952b3",
+      "bytes": 2099280
+    },
+    {
+      "name": "littlefs-rak3312-2.7.17.f9ea1c9.bin",
+      "md5": "57d39e3a1a13866dc6033903185aef0c",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

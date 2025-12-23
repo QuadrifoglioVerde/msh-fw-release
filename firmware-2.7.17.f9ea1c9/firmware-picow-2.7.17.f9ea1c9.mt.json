@@ -1,0 +1,27 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "picow",
+  "mcu": "rp2040",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-picow-2.7.17.f9ea1c9.elf",
+      "md5": "d22745093f73f13118a7d72b78ebd53f",
+      "bytes": 11462008
+    },
+    {
+      "name": "firmware-picow-2.7.17.f9ea1c9.bin",
+      "md5": "14e9b1bd9ea0b94df61a4eca8cc4673f",
+      "bytes": 1387400
+    },
+    {
+      "name": "firmware-picow-2.7.17.f9ea1c9.uf2",
+      "md5": "68dc25e08dae1b7f9df6aede269412c7",
+      "bytes": 2775040
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

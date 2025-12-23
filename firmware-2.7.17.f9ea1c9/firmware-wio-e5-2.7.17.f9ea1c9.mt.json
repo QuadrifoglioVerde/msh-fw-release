@@ -1,0 +1,27 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "wio-e5",
+  "mcu": "stm32wle5jc",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-wio-e5-2.7.17.f9ea1c9.elf",
+      "md5": "02b4641bb06036fba3dbed01d1278caa",
+      "bytes": 7983184
+    },
+    {
+      "name": "firmware-wio-e5-2.7.17.f9ea1c9.bin",
+      "md5": "786c4b82b581acf0075575063c705adf",
+      "bytes": 227520
+    },
+    {
+      "name": "firmware-wio-e5-2.7.17.f9ea1c9.hex",
+      "md5": "3eddbaaa0dec6e55b3fd20853668a734",
+      "bytes": 640012
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

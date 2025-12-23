@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "canaryone",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-canaryone-2.7.17.f9ea1c9.elf",
+      "md5": "832a2959144942c1a40b712539ddecf6",
+      "bytes": 1213856
+    },
+    {
+      "name": "firmware-canaryone-2.7.17.f9ea1c9.hex",
+      "md5": "f70bd09a4142f934469368aaec36e193",
+      "bytes": 1826604
+    },
+    {
+      "name": "firmware-canaryone-2.7.17.f9ea1c9.uf2",
+      "md5": "4cb5946764db28467c993ebbdb8535cb",
+      "bytes": 1298944
+    },
+    {
+      "name": "firmware-canaryone-2.7.17.f9ea1c9.zip",
+      "md5": "d4b9cdce6847b25c4974ec4c0d6e3e58",
+      "bytes": 650329
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

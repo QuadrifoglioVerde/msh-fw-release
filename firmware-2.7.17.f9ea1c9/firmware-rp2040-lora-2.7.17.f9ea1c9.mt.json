@@ -1,0 +1,27 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "rp2040-lora",
+  "mcu": "rp2040",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rp2040-lora-2.7.17.f9ea1c9.elf",
+      "md5": "2a181b554e3a41693456433d03b3f4b8",
+      "bytes": 9921232
+    },
+    {
+      "name": "firmware-rp2040-lora-2.7.17.f9ea1c9.bin",
+      "md5": "11ff727c9b69b309f1baffd76f19a363",
+      "bytes": 930324
+    },
+    {
+      "name": "firmware-rp2040-lora-2.7.17.f9ea1c9.uf2",
+      "md5": "68fef1a82fb05a8d60b36cd46d5cc762",
+      "bytes": 1861120
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

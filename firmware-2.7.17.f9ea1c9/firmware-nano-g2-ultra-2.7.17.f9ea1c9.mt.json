@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "nano-g2-ultra",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nano-g2-ultra-2.7.17.f9ea1c9.elf",
+      "md5": "9787240961a28eb7b1540303967c94fd",
+      "bytes": 1282932
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.7.17.f9ea1c9.hex",
+      "md5": "3a63be378acd1851dd5ce1d30f549384",
+      "bytes": 1879074
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.7.17.f9ea1c9.uf2",
+      "md5": "8b5dc59e36051752057a661987ab7335",
+      "bytes": 1336320
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.7.17.f9ea1c9.zip",
+      "md5": "639337459031f2e779236108d53d6bff",
+      "bytes": 669009
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

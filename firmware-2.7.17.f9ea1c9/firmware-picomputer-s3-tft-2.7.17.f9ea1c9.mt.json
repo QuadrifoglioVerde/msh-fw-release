@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "picomputer-s3-tft",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.17.f9ea1c9.elf",
+      "md5": "4629d598f8988278f00f65122ba97e3c",
+      "bytes": 24370236
+    },
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.17.f9ea1c9.bin",
+      "md5": "dbcb8e7c221e7721e3d4c86a78d9f0fc",
+      "bytes": 3364848
+    },
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.17.f9ea1c9.factory.bin",
+      "md5": "4b9d8923441ae386f649b86f13b6c7b5",
+      "bytes": 3430384
+    },
+    {
+      "name": "littlefs-picomputer-s3-tft-2.7.17.f9ea1c9.bin",
+      "md5": "5ccbecd25e1b3367df516ad66ee1ef9d",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x5C0000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x5D0000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": null
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false
+}

@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "heltec-hru-3601",
+  "mcu": "esp32c3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-hru-3601-2.7.17.f9ea1c9.elf",
+      "md5": "908759beae8632498458209eaf79fb07",
+      "bytes": 19159980
+    },
+    {
+      "name": "firmware-heltec-hru-3601-2.7.17.f9ea1c9.bin",
+      "md5": "9af594593fe2ef5a36662a593f67a116",
+      "bytes": 2073424
+    },
+    {
+      "name": "firmware-heltec-hru-3601-2.7.17.f9ea1c9.factory.bin",
+      "md5": "528d30aa093de506710be6b395992cc5",
+      "bytes": 2138960
+    },
+    {
+      "name": "littlefs-heltec-hru-3601-2.7.17.f9ea1c9.bin",
+      "md5": "b775393e065386673f4dc2139623fc82",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

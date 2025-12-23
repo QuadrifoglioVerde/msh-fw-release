@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "muzi-base",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-muzi-base-2.7.17.f9ea1c9.elf",
+      "md5": "5484410f58a9ddf9004f4db6950269fb",
+      "bytes": 1298604
+    },
+    {
+      "name": "firmware-muzi-base-2.7.17.f9ea1c9.hex",
+      "md5": "6cec2cd8f6cb59efa722078b6b87dfb9",
+      "bytes": 1929429
+    },
+    {
+      "name": "firmware-muzi-base-2.7.17.f9ea1c9.uf2",
+      "md5": "a86c18bb9c4f5dff8beb4989bb8e31a6",
+      "bytes": 1372160
+    },
+    {
+      "name": "firmware-muzi-base-2.7.17.f9ea1c9.zip",
+      "md5": "2ef4df912d305b843fec01ea2f09507d",
+      "bytes": 686889
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

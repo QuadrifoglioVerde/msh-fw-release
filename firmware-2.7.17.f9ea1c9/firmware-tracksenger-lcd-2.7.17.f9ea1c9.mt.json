@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "tracksenger-lcd",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tracksenger-lcd-2.7.17.f9ea1c9.elf",
+      "md5": "e0c663086669ca2e837facb54197c1ae",
+      "bytes": 22901160
+    },
+    {
+      "name": "firmware-tracksenger-lcd-2.7.17.f9ea1c9.bin",
+      "md5": "f57a7066c210eee91e9a18f4cf449ad5",
+      "bytes": 2107632
+    },
+    {
+      "name": "firmware-tracksenger-lcd-2.7.17.f9ea1c9.factory.bin",
+      "md5": "23a88bbd9c1547dd4fe2020c7f58abb5",
+      "bytes": 2173168
+    },
+    {
+      "name": "littlefs-tracksenger-lcd-2.7.17.f9ea1c9.bin",
+      "md5": "1dd0c48915168f9625ca199893d0a320",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

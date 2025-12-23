@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "thinknode_m1-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.17.f9ea1c9.elf",
+      "md5": "9f46fe91d9fd524624bebefa18373826",
+      "bytes": 1174648
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.17.f9ea1c9.hex",
+      "md5": "d3cea905814cb1266620c279d2cb7680",
+      "bytes": 1721774
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.17.f9ea1c9.uf2",
+      "md5": "df4b1ef39fe43226c95ab5fe1085c74e",
+      "bytes": 1224704
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.17.f9ea1c9.zip",
+      "md5": "51f6a6c497143cb7119a021c0ce44b39",
+      "bytes": 613121
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": true
+}

@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "rak3401-1watt",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak3401-1watt-2.7.17.f9ea1c9.elf",
+      "md5": "b5141f3cd70ae2945d5a99100055abc7",
+      "bytes": 1283816
+    },
+    {
+      "name": "firmware-rak3401-1watt-2.7.17.f9ea1c9.hex",
+      "md5": "2cc51671edf312c71a9cecdf0f786c99",
+      "bytes": 1886769
+    },
+    {
+      "name": "firmware-rak3401-1watt-2.7.17.f9ea1c9.uf2",
+      "md5": "a9e3a7580cd8f46995bbac482afd429b",
+      "bytes": 1341952
+    },
+    {
+      "name": "firmware-rak3401-1watt-2.7.17.f9ea1c9.zip",
+      "md5": "451e2e1f051bb5b8f549c587b2c6af1e",
+      "bytes": 671745
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

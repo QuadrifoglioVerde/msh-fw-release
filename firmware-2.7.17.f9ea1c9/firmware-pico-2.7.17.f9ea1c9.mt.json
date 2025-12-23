@@ -1,0 +1,27 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "pico",
+  "mcu": "rp2040",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-pico-2.7.17.f9ea1c9.elf",
+      "md5": "2e2d5b5e59ec8178bc5bf51b931b98d3",
+      "bytes": 9925516
+    },
+    {
+      "name": "firmware-pico-2.7.17.f9ea1c9.bin",
+      "md5": "0da6f86ba6043ff6ae8364da02442fd7",
+      "bytes": 932164
+    },
+    {
+      "name": "firmware-pico-2.7.17.f9ea1c9.uf2",
+      "md5": "6cd03731628aad302073603be3c87876",
+      "bytes": 1864704
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

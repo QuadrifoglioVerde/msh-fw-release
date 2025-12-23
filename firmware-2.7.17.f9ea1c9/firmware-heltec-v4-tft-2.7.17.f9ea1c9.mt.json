@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "heltec-v4-tft",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-v4-tft-2.7.17.f9ea1c9.elf",
+      "md5": "27e763f2a92fa50193081b74c43be5a6",
+      "bytes": 24508480
+    },
+    {
+      "name": "firmware-heltec-v4-tft-2.7.17.f9ea1c9.bin",
+      "md5": "8eec88016d2c91acbb55f23e6109875f",
+      "bytes": 3417744
+    },
+    {
+      "name": "firmware-heltec-v4-tft-2.7.17.f9ea1c9.factory.bin",
+      "md5": "774b3b7a4c81638299439ea7408ec730",
+      "bytes": 3483280
+    },
+    {
+      "name": "littlefs-heltec-v4-tft-2.7.17.f9ea1c9.bin",
+      "md5": "8d0b6c64903a525ab5d34f4c02be03cb",
+      "bytes": 3538944
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false
+}

@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "m5stack-unitc6l",
+  "mcu": "esp32c6",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-m5stack-unitc6l-2.7.17.f9ea1c9.elf",
+      "md5": "82a0a04a6b5c61ac30e69ab5bdfb17c0",
+      "bytes": 30535768
+    },
+    {
+      "name": "firmware-m5stack-unitc6l-2.7.17.f9ea1c9.bin",
+      "md5": "1c7afe9fddfb450fd9488e5bf4128337",
+      "bytes": 1894560
+    },
+    {
+      "name": "firmware-m5stack-unitc6l-2.7.17.f9ea1c9.factory.bin",
+      "md5": "10971ee4d60d0e85ac6d438191858adb",
+      "bytes": 1960096
+    },
+    {
+      "name": "littlefs-m5stack-unitc6l-2.7.17.f9ea1c9.bin",
+      "md5": "1a2f8bb574d877d62883e6ad8979770a",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

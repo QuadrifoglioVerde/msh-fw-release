@@ -1,0 +1,81 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "seeed-xiao-s3",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-seeed-xiao-s3-2.7.17.f9ea1c9.elf",
+      "md5": "ace0d8c7c93769d9f5c48ce0cf935348",
+      "bytes": 22585132
+    },
+    {
+      "name": "firmware-seeed-xiao-s3-2.7.17.f9ea1c9.bin",
+      "md5": "6c26e13f71b89587a23a38672d61016d",
+      "bytes": 2066880
+    },
+    {
+      "name": "firmware-seeed-xiao-s3-2.7.17.f9ea1c9.factory.bin",
+      "md5": "1f51ba7cc90318fd83b88d4ea4553936",
+      "bytes": 2132416
+    },
+    {
+      "name": "littlefs-seeed-xiao-s3-2.7.17.f9ea1c9.bin",
+      "md5": "b01b30570302eed568b768f9c2367d33",
+      "bytes": 1572864
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

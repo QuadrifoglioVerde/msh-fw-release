@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "rak4631_eth_gw",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak4631_eth_gw-2.7.17.f9ea1c9.elf",
+      "md5": "ad4a3777c3581de59c608f8bf0c5c46a",
+      "bytes": 1158240
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.7.17.f9ea1c9.hex",
+      "md5": "71f96b487df104fe342c7f53653b4b47",
+      "bytes": 1630972
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.7.17.f9ea1c9.uf2",
+      "md5": "e257ddc757618fe973c958668d118003",
+      "bytes": 1159680
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.7.17.f9ea1c9.zip",
+      "md5": "5192b9e667a3837755c7dd4556610696",
+      "bytes": 580807
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

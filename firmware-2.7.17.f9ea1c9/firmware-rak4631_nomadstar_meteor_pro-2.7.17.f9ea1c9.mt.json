@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "rak4631_nomadstar_meteor_pro",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.17.f9ea1c9.elf",
+      "md5": "31bd9ecbd8cf6732feb703043ce3641c",
+      "bytes": 1284056
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.17.f9ea1c9.hex",
+      "md5": "6022dfdc80bca5365f8b02958f4dda28",
+      "bytes": 1880829
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.17.f9ea1c9.uf2",
+      "md5": "7af1aff791a9d4e78be3e2f3760a22c0",
+      "bytes": 1337344
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.17.f9ea1c9.zip",
+      "md5": "91b5e978c490ce62262fd5f274577b89",
+      "bytes": 669723
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

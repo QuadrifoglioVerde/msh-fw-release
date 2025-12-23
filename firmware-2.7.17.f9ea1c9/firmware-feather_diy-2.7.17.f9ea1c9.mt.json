@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "feather_diy",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-feather_diy-2.7.17.f9ea1c9.elf",
+      "md5": "c0a3d7c8248cbaeeba40014c7f5f91a1",
+      "bytes": 1280848
+    },
+    {
+      "name": "firmware-feather_diy-2.7.17.f9ea1c9.hex",
+      "md5": "4bafc57d6d66905aca04a59ba8133f59",
+      "bytes": 1871154
+    },
+    {
+      "name": "firmware-feather_diy-2.7.17.f9ea1c9.uf2",
+      "md5": "134833924fdec805cf8f631d3f0d71e3",
+      "bytes": 1330688
+    },
+    {
+      "name": "firmware-feather_diy-2.7.17.f9ea1c9.zip",
+      "md5": "96c7e1f6608411b81c7bd53abd828f01",
+      "bytes": 666181
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

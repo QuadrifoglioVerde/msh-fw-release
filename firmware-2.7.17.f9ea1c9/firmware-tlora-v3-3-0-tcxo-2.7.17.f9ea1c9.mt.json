@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "tlora-v3-3-0-tcxo",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.7.17.f9ea1c9.elf",
+      "md5": "58147d2404b8ea730e4ac708675e5638",
+      "bytes": 20543416
+    },
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.7.17.f9ea1c9.bin",
+      "md5": "a6f9aceb028e0336cae4aef9c14b5c49",
+      "bytes": 2214336
+    },
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.7.17.f9ea1c9.factory.bin",
+      "md5": "2b7ca251836581b4d14ac121f7240e93",
+      "bytes": 2279872
+    },
+    {
+      "name": "littlefs-tlora-v3-3-0-tcxo-2.7.17.f9ea1c9.bin",
+      "md5": "7ba5744815a2b44c4185a9c66599c291",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

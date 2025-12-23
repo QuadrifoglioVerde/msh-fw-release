@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "seeed_wio_tracker_L1_eink-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.17.f9ea1c9.elf",
+      "md5": "765203c71e2a3d809b94faf3b0f81d79",
+      "bytes": 1175720
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.17.f9ea1c9.hex",
+      "md5": "7b4d2ec23fac71a2a127912422526d6f",
+      "bytes": 1723889
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.17.f9ea1c9.uf2",
+      "md5": "f55f38df134d0a3667eef34841961772",
+      "bytes": 1225728
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.17.f9ea1c9.zip",
+      "md5": "3b405b29fc53ec87044ba671088df5f7",
+      "bytes": 613950
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": true
+}

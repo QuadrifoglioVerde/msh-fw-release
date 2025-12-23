@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "nano-g1-explorer",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nano-g1-explorer-2.7.17.f9ea1c9.elf",
+      "md5": "4697e0054f2eda0754cb9ddc79575b37",
+      "bytes": 20766888
+    },
+    {
+      "name": "firmware-nano-g1-explorer-2.7.17.f9ea1c9.bin",
+      "md5": "3b62c2198ddff507464f6d45a48aba7a",
+      "bytes": 2283264
+    },
+    {
+      "name": "firmware-nano-g1-explorer-2.7.17.f9ea1c9.factory.bin",
+      "md5": "14a5406e700840316b54fd25f4f5f4de",
+      "bytes": 2348800
+    },
+    {
+      "name": "littlefs-nano-g1-explorer-2.7.17.f9ea1c9.bin",
+      "md5": "a0534d429256cedeb58b3db2291deb72",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

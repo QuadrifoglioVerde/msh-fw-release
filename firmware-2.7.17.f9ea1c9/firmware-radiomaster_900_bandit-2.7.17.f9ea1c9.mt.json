@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "radiomaster_900_bandit",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-radiomaster_900_bandit-2.7.17.f9ea1c9.elf",
+      "md5": "00ed7f1a58268ff4e9a66f04ab4d0a3e",
+      "bytes": 20698868
+    },
+    {
+      "name": "firmware-radiomaster_900_bandit-2.7.17.f9ea1c9.bin",
+      "md5": "71229d532740ef38e0f27f5b999e74f3",
+      "bytes": 2182464
+    },
+    {
+      "name": "firmware-radiomaster_900_bandit-2.7.17.f9ea1c9.factory.bin",
+      "md5": "8e54a8eb52b53315a30f88f348863ca3",
+      "bytes": 2248000
+    },
+    {
+      "name": "littlefs-radiomaster_900_bandit-2.7.17.f9ea1c9.bin",
+      "md5": "eb2305229393cbeb5ddb2dc4e14193c8",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

@@ -1,0 +1,32 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "thinknode_m1",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m1-2.7.17.f9ea1c9.elf",
+      "md5": "c382e23ea708c20c604f2e3811ceb0db",
+      "bytes": 1290180
+    },
+    {
+      "name": "firmware-thinknode_m1-2.7.17.f9ea1c9.hex",
+      "md5": "7b5cc52d760b786acb2aeb46e9523203",
+      "bytes": 1897630
+    },
+    {
+      "name": "firmware-thinknode_m1-2.7.17.f9ea1c9.uf2",
+      "md5": "e2faf0719dc0965cd27b80e9309dd22c",
+      "bytes": 1349632
+    },
+    {
+      "name": "firmware-thinknode_m1-2.7.17.f9ea1c9.zip",
+      "md5": "a196cae31a83a2181e6d84ed85f0aeef",
+      "bytes": 675603
+    }
+  ],
+  "part": null,
+  "has_mui": false,
+  "has_inkhud": false
+}

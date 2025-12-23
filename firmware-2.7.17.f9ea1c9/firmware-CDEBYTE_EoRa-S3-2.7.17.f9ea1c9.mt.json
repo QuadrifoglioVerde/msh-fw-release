@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "CDEBYTE_EoRa-S3",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-CDEBYTE_EoRa-S3-2.7.17.f9ea1c9.elf",
+      "md5": "c9e75a54dc5a562d55e37f4a5e86fd1c",
+      "bytes": 22899232
+    },
+    {
+      "name": "firmware-CDEBYTE_EoRa-S3-2.7.17.f9ea1c9.bin",
+      "md5": "d23e277fd5de3a0ea18e7d982219bbac",
+      "bytes": 2100048
+    },
+    {
+      "name": "firmware-CDEBYTE_EoRa-S3-2.7.17.f9ea1c9.factory.bin",
+      "md5": "b851ca7ec3b41cdb1f37347bfec656d2",
+      "bytes": 2165584
+    },
+    {
+      "name": "littlefs-CDEBYTE_EoRa-S3-2.7.17.f9ea1c9.bin",
+      "md5": "0c74e6140b91145907ebcf4b10db100f",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}

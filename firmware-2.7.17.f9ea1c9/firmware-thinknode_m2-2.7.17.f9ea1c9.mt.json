@@ -1,0 +1,73 @@
+{
+  "version": "2.7.17.f9ea1c9",
+  "build_epoch": 1766448000,
+  "board": "thinknode_m2",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m2-2.7.17.f9ea1c9.elf",
+      "md5": "01b25fca08b1e766fdbc565fa1d99e8d",
+      "bytes": 21897860
+    },
+    {
+      "name": "firmware-thinknode_m2-2.7.17.f9ea1c9.bin",
+      "md5": "967752605652c892651a9c4b9887cc79",
+      "bytes": 1991056
+    },
+    {
+      "name": "firmware-thinknode_m2-2.7.17.f9ea1c9.factory.bin",
+      "md5": "7019069388d670f254f2dd492fdfdf4e",
+      "bytes": 2056592
+    },
+    {
+      "name": "littlefs-thinknode_m2-2.7.17.f9ea1c9.bin",
+      "md5": "9f828e35eb18fc28d39043d6085271f6",
+      "bytes": 1048576
+    }
+  ],
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false
+}
