@@ -1,7 +1,7 @@
 Repozitář s binárkami pro zařízení Meshtastic
 
 Poslední verze (už opraveny BT bug):
-- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.7.18.5335d71" target="_blank">v2.7.18</a>
+- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.7.18.bbd7aad" target="_blank">v2.7.18</a>
 
 Postup instalace u ESP32:
 - pokud na zařízení už Meshtastic je tak přes https://flasher.meshtastic.org/ nahrát podle HW verzi BEZ factory.bin
@@ -15,6 +15,7 @@ Provedené úpravy:
 - Možnost Neighbor Info přes LoRa na výchozím kanále
 - Podpora češtiny na OLED - Znaková sada CS
 - Telemetrie na MQTT dodrzuje nastavene intervaly
+
 
 
 
