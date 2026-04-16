@@ -8,6 +8,7 @@ Postup instalace u ESP32:
 - Pokud není, tak nahrát originál přes tentýž web a pak postup výše.
 
 Provedené úpravy:
+- od 2.7.22 je telemetry min. na 1h u ROUTER(_LATE) (původně je 12h)
 - od 2.7.19.9453f8d je NEIGHBORINFO zahrnuto v CORE PORTNUMS
 - u RAK 4631 přidaná varianta pro LTO baterii
 - Čas z GPS až je validní lokace 
