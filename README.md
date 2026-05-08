@@ -14,7 +14,7 @@ Provedené úpravy:
 - Čas z GPS až je validní lokace 
 - Možnost Neighbor Info přes LoRa na výchozím kanále
 - Podpora češtiny na OLED - Znaková sada CS
-- Telemetrie na MQTT dodrzuje nastavene intervaly
+- Telemetrie na MQTT dodržuje nastavene intervaly (nedocházi k prodlužování intervalů při využití kanálu, u MQTT nám jsou data fuk)
 
 
 
