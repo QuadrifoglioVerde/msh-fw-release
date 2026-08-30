@@ -1,0 +1,95 @@
+{
+  "version": "2.8.0.28730e3",
+  "build_epoch": 1788048000,
+  "platformioTarget": "rak11200",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak11200-2.8.0.28730e3.elf",
+      "md5": "918b1d87da0c583de47033ebb50fd98e",
+      "bytes": 38301708
+    },
+    {
+      "name": "firmware-rak11200-2.8.0.28730e3.bin",
+      "md5": "a5aa0f9dcf60e83f921331968aa1fcd2",
+      "bytes": 1945968,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-rak11200-2.8.0.28730e3.factory.bin",
+      "md5": "dce0d2e9a6c8a1bf79df7fb1e23c2034",
+      "bytes": 2011504
+    },
+    {
+      "name": "littlefs-rak11200-2.8.0.28730e3.bin",
+      "md5": "1e7b51537ff1592972ee41df8880327d",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 88164,
+  "flash_bytes": 1970638,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 13,
+  "hwModelSlug": "RAK11200",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "RAK WisBlock 11200",
+  "supportLevel": 3,
+  "images": [
+    "rak11200.svg"
+  ],
+  "tags": [
+    "RAK"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "version": "2.8.0.28730e3",
+  "build_epoch": 1788048000,
+  "platformioTarget": "t-watch-s3",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-t-watch-s3-2.8.0.28730e3.elf",
+      "md5": "ed71e028e484ba8f60ab23a6a655eb47",
+      "bytes": 53560024
+    },
+    {
+      "name": "firmware-t-watch-s3-2.8.0.28730e3.bin",
+      "md5": "501bdd743646261fd51c94b8a4b425cb",
+      "bytes": 2451936,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-t-watch-s3-2.8.0.28730e3.factory.bin",
+      "md5": "2bcb18eaa5566048336b5e563f79d5d8",
+      "bytes": 2517472
+    },
+    {
+      "name": "littlefs-t-watch-s3-2.8.0.28730e3.bin",
+      "md5": "9823533c28b79327a77a38bb7474b8e3",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 100648,
+  "flash_bytes": 2476751,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 51,
+  "hwModelSlug": "T_WATCH_S3",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "LILYGO T-Watch S3",
+  "supportLevel": 3,
+  "images": [
+    "t-watch-s3.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "partitionScheme": "8MB"
+}
