@@ -1,0 +1,86 @@
+{
+  "version": "2.8.0.8c14f65",
+  "build_epoch": 1788134400,
+  "platformioTarget": "heltec-hru-3601",
+  "mcu": "esp32c3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-hru-3601-2.8.0.8c14f65.elf",
+      "md5": "46ad038bc48443ba2cece9223c010944",
+      "bytes": 42871416
+    },
+    {
+      "name": "firmware-heltec-hru-3601-2.8.0.8c14f65.bin",
+      "md5": "a775685c9fc29965c1b77663ebea2884",
+      "bytes": 2127920,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-heltec-hru-3601-2.8.0.8c14f65.factory.bin",
+      "md5": "bde2bb073bd3a087ff41fd291aa4d955",
+      "bytes": 2193456
+    },
+    {
+      "name": "littlefs-heltec-hru-3601-2.8.0.8c14f65.bin",
+      "md5": "b7f2d755e7c0b7fa6e3d48066523eebc",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "bleota-c3.bin",
+      "md5": "b21eaf7ef2b3f867f42032e35079f3c0",
+      "bytes": 509776,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 109912,
+  "flash_bytes": 2153757,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-c3",
+  "displayName": "heltec-hru-3601",
+  "activelySupported": false
+}
