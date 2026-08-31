@@ -1,7 +1,7 @@
 Repozitář s binárkami pro zařízení Meshtastic
 
 Poslední verze:
-- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.8.0.28730e3" target="_blank">v2.8.0</a>
+- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.8.0.8c14f65" target="_blank">v2.8.0</a>
 
 Postup instalace u ESP32:
 - pokud na zařízení už Meshtastic je tak přes https://flasher.meshtastic.org/ nahrát podle HW verzi BEZ factory.bin
