@@ -1,0 +1,47 @@
+{
+  "version": "2.8.0.e3b2204",
+  "build_epoch": 1788220800,
+  "platformioTarget": "rak4631",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak4631-2.8.0.e3b2204.elf",
+      "md5": "a103d464de8c45b07b05542175f664a3",
+      "bytes": 1299032
+    },
+    {
+      "name": "firmware-rak4631-2.8.0.e3b2204.hex",
+      "md5": "694b88e98e9ebc0b660969178ce16b2f",
+      "bytes": 2094612
+    },
+    {
+      "name": "firmware-rak4631-2.8.0.e3b2204.uf2",
+      "md5": "034635beaaac0981fa2be184ebbc5f9c",
+      "bytes": 1489408
+    },
+    {
+      "name": "firmware-rak4631-2.8.0.e3b2204-ota.zip",
+      "md5": "b216703da31dbdce872d14f8506a4cf5",
+      "bytes": 745598
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 98812,
+  "flash_bytes": 744664,
+  "hwModel": 9,
+  "hwModelSlug": "RAK4631",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "RAK WisBlock 4631",
+  "supportLevel": 1,
+  "images": [
+    "rak4631.svg",
+    "rak4631_case.svg"
+  ],
+  "tags": [
+    "RAK"
+  ],
+  "requiresDfu": true
+}

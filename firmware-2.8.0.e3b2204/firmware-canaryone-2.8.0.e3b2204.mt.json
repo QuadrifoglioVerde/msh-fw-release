@@ -1,0 +1,43 @@
+{
+  "version": "2.8.0.e3b2204",
+  "build_epoch": 1788220800,
+  "platformioTarget": "canaryone",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-canaryone-2.8.0.e3b2204.elf",
+      "md5": "b4ac2c1a7a107af743715748ba3b4f83",
+      "bytes": 1292968
+    },
+    {
+      "name": "firmware-canaryone-2.8.0.e3b2204.hex",
+      "md5": "1b28485ff4f5cc5530cab7c427d52d18",
+      "bytes": 2012921
+    },
+    {
+      "name": "firmware-canaryone-2.8.0.e3b2204.uf2",
+      "md5": "629ec6a682a678d671ea03a24dcc9f18",
+      "bytes": 1431552
+    },
+    {
+      "name": "firmware-canaryone-2.8.0.e3b2204-ota.zip",
+      "md5": "b2eb82081b82b9ae63cd87bf3e34d41c",
+      "bytes": 716563
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 89916,
+  "flash_bytes": 715616,
+  "hwModel": 29,
+  "hwModelSlug": "CANARYONE",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Canary One",
+  "supportLevel": 3,
+  "tags": [
+    "Canary"
+  ],
+  "requiresDfu": true
+}

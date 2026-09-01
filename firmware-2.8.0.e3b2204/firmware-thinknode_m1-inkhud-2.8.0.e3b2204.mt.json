@@ -1,0 +1,37 @@
+{
+  "version": "2.8.0.e3b2204",
+  "build_epoch": 1788220800,
+  "platformioTarget": "thinknode_m1-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.8.0.e3b2204.elf",
+      "md5": "92120bdf017a28a9f7154e53cf7cb6b0",
+      "bytes": 1186884
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.8.0.e3b2204.hex",
+      "md5": "815e3edd311ba5fe509e54d199f5415a",
+      "bytes": 1976455
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.8.0.e3b2204.uf2",
+      "md5": "c9b93cad75b02a14066db4ef954d9869",
+      "bytes": 1405440
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.8.0.e3b2204-ota.zip",
+      "md5": "0524a1af401a51b46ba6cd28769d4241",
+      "bytes": 703654
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 79388,
+  "flash_bytes": 702648,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "thinknode_m1-inkhud",
+  "activelySupported": false
+}

@@ -1,0 +1,92 @@
+{
+  "version": "2.8.0.e3b2204",
+  "build_epoch": 1788220800,
+  "platformioTarget": "nano-g1",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nano-g1-2.8.0.e3b2204.elf",
+      "md5": "a56129744e98323c4a097e1b90c818f7",
+      "bytes": 40010392
+    },
+    {
+      "name": "firmware-nano-g1-2.8.0.e3b2204.bin",
+      "md5": "27b16ee235b10d09762a8943558b172c",
+      "bytes": 2056784,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-nano-g1-2.8.0.e3b2204.factory.bin",
+      "md5": "6c3bb6c06cc25583ef1ebba890097843",
+      "bytes": 2122320
+    },
+    {
+      "name": "littlefs-nano-g1-2.8.0.e3b2204.bin",
+      "md5": "198e14873d56ebc3eba7486fe73293a4",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 108540,
+  "flash_bytes": 2081466,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 14,
+  "hwModelSlug": "NANO_G1",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "Nano G1",
+  "supportLevel": 3,
+  "tags": [
+    "B&Q"
+  ]
+}

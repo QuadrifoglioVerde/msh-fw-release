@@ -1,0 +1,37 @@
+{
+  "version": "2.8.0.e3b2204",
+  "build_epoch": 1788220800,
+  "platformioTarget": "feather_diy",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-feather_diy-2.8.0.e3b2204.elf",
+      "md5": "19bbeb219afa72a718651e4d4fc0da94",
+      "bytes": 1294728
+    },
+    {
+      "name": "firmware-feather_diy-2.8.0.e3b2204.hex",
+      "md5": "022a9f20aa8aa4565ebb8bd1a0ff0a00",
+      "bytes": 2072485
+    },
+    {
+      "name": "firmware-feather_diy-2.8.0.e3b2204.uf2",
+      "md5": "f0b2173fec8577008a09343e77b01aff",
+      "bytes": 1474048
+    },
+    {
+      "name": "firmware-feather_diy-2.8.0.e3b2204-ota.zip",
+      "md5": "78ebeae96e0fbaf23b2159d35f31c2b7",
+      "bytes": 737750
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 98740,
+  "flash_bytes": 736792,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "feather_diy",
+  "activelySupported": false
+}
