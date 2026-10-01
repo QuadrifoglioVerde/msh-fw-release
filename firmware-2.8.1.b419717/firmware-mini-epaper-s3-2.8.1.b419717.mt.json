@@ -1,0 +1,96 @@
+{
+  "version": "2.8.1.b419717",
+  "build_epoch": 1790812800,
+  "platformioTarget": "mini-epaper-s3",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-mini-epaper-s3-2.8.1.b419717.elf",
+      "md5": "e8bd4fa3ea9ce1ea3b04adccb5f53c5d",
+      "bytes": 47860740
+    },
+    {
+      "name": "firmware-mini-epaper-s3-2.8.1.b419717.bin",
+      "md5": "f258f00af95cc43d8d20c55a47a2e16c",
+      "bytes": 2332112,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-mini-epaper-s3-2.8.1.b419717.factory.bin",
+      "md5": "a8770c8e29580004e8912f23028d432e",
+      "bytes": 2397648
+    },
+    {
+      "name": "littlefs-mini-epaper-s3-2.8.1.b419717.bin",
+      "md5": "987a6d816807d0669ee3d8b1e9313117",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 98680,
+  "flash_bytes": 2356935,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 125,
+  "hwModelSlug": "MINI_EPAPER_S3",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "LILYGO Mini ePaper S3 E-Ink",
+  "supportLevel": 1,
+  "images": [
+    "mini-epaper-s3.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "requiresDfu": false
+}

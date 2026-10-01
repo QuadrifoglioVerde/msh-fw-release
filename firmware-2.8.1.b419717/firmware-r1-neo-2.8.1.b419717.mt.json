@@ -1,0 +1,46 @@
+{
+  "version": "2.8.1.b419717",
+  "build_epoch": 1790812800,
+  "platformioTarget": "r1-neo",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-r1-neo-2.8.1.b419717.elf",
+      "md5": "1f5a28dd1d7159d868159e9b71a6c944",
+      "bytes": 985104
+    },
+    {
+      "name": "firmware-r1-neo-2.8.1.b419717.hex",
+      "md5": "b738246230d848c73ad79ce791cdf096",
+      "bytes": 1547623
+    },
+    {
+      "name": "firmware-r1-neo-2.8.1.b419717.uf2",
+      "md5": "a1434de64d69c680b1af8865c9c42b09",
+      "bytes": 1100800
+    },
+    {
+      "name": "firmware-r1-neo-2.8.1.b419717-ota.zip",
+      "md5": "9fba7cf7d61200ec2b8aa7aff4fad203",
+      "bytes": 551125
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 86540,
+  "flash_bytes": 550196,
+  "hwModel": 101,
+  "hwModelSlug": "MUZI_R1_NEO",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "muzi R1 Neo",
+  "supportLevel": 1,
+  "images": [
+    "muzi_r1_neo.svg"
+  ],
+  "tags": [
+    "muzi"
+  ],
+  "requiresDfu": true
+}

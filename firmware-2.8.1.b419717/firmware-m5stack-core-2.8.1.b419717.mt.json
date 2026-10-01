@@ -1,0 +1,92 @@
+{
+  "version": "2.8.1.b419717",
+  "build_epoch": 1790812800,
+  "platformioTarget": "m5stack-core",
+  "mcu": "esp32",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-m5stack-core-2.8.1.b419717.elf",
+      "md5": "c7fd739710c400d9c5d565c55441ecdf",
+      "bytes": 42035968
+    },
+    {
+      "name": "firmware-m5stack-core-2.8.1.b419717.bin",
+      "md5": "c3045c2eade3cd64eef99fceed1a8a66",
+      "bytes": 2073056,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-m5stack-core-2.8.1.b419717.factory.bin",
+      "md5": "2058a469df33554b356a05cd4ce1d2c2",
+      "bytes": 2138592
+    },
+    {
+      "name": "littlefs-m5stack-core-2.8.1.b419717.bin",
+      "md5": "5b3d7a2ee56599cd0eaeb8b903a7db0b",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 109612,
+  "flash_bytes": 2097734,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 42,
+  "hwModelSlug": "M5STACK",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "M5 Stack",
+  "supportLevel": 3,
+  "tags": [
+    "M5Stack"
+  ]
+}

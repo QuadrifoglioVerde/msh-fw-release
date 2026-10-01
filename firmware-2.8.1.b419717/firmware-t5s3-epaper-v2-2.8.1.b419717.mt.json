@@ -1,0 +1,107 @@
+{
+  "version": "2.8.1.b419717",
+  "build_epoch": 1790812800,
+  "platformioTarget": "t5s3-epaper-v2",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-t5s3-epaper-v2-2.8.1.b419717.elf",
+      "md5": "bdd322ceb0cbe42df4b5278f681fdd2a",
+      "bytes": 50075968
+    },
+    {
+      "name": "firmware-t5s3-epaper-v2-2.8.1.b419717.bin",
+      "md5": "228d5cf2aaa3ced8dbb483fc1827af50",
+      "bytes": 2386656,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-t5s3-epaper-v2-2.8.1.b419717.factory.bin",
+      "md5": "2f6baa5fe8e6ad57f8660ae96c8aa955",
+      "bytes": 2452192
+    },
+    {
+      "name": "littlefs-t5s3-epaper-v2-2.8.1.b419717.bin",
+      "md5": "7afa5135bdbcc3906d26b4946e1d76ad",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 103532,
+  "flash_bytes": 2411475,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 123,
+  "hwModelSlug": "T5_S3_EPAPER_PRO",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "LilyGo T5 E-paper S3 Pro V2",
+  "supportLevel": 1,
+  "images": [
+    "t5s3_epaper.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "requiresDfu": true,
+  "partitionScheme": "16MB",
+  "key": "t5s3-epaper-v2",
+  "variant": "H752-01 (V2)"
+}
