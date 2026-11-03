@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.9ffeafa",
+  "build_epoch": 1793664000,
+  "platformioTarget": "rak_wismesh_dongle",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak_wismesh_dongle-2.8.2.9ffeafa.elf",
+      "md5": "688e078807fc1134e7b3f5b18e3e27c8",
+      "bytes": 885792
+    },
+    {
+      "name": "firmware-rak_wismesh_dongle-2.8.2.9ffeafa.hex",
+      "md5": "0c0a0cb62910fa8f17143e6ef30ccf72",
+      "bytes": 1501985
+    },
+    {
+      "name": "firmware-rak_wismesh_dongle-2.8.2.9ffeafa.uf2",
+      "md5": "70d1eec9e00f470fb7128df14f6e7a98",
+      "bytes": 1068032
+    },
+    {
+      "name": "firmware-rak_wismesh_dongle-2.8.2.9ffeafa-ota.zip",
+      "md5": "622f6e77ffc6e2b385a33da9407b5d94",
+      "bytes": 534969
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 86128,
+  "flash_bytes": 533968,
+  "hwModel": 9,
+  "hwModelSlug": "RAK4631",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "RAK WisMesh Dongle",
+  "supportLevel": 1,
+  "images": [
+    "rak4631.svg"
+  ],
+  "tags": [
+    "RAK"
+  ],
+  "requiresDfu": true
+}

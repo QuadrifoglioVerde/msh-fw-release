@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.9ffeafa",
+  "build_epoch": 1793664000,
+  "platformioTarget": "thinknode_m6",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m6-2.8.2.9ffeafa.elf",
+      "md5": "f5209b973964f8725be4a75f4dfe4d0b",
+      "bytes": 1173792
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.2.9ffeafa.hex",
+      "md5": "1a87aedd2715065ad6e9f65031678449",
+      "bytes": 2026122
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.2.9ffeafa.uf2",
+      "md5": "a2214bd59d4b0280709fbb48561984ef",
+      "bytes": 1440768
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.2.9ffeafa-ota.zip",
+      "md5": "4daaffeffc6a5d88edefa2ba52e7cac3",
+      "bytes": 721277
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96552,
+  "flash_bytes": 720312,
+  "hwModel": 120,
+  "hwModelSlug": "THINKNODE_M6",
+  "architecture": "nrf52840",
+  "activelySupported": false,
+  "displayName": "ThinkNode M6",
+  "supportLevel": 1,
+  "images": [
+    "thinknode_m6.svg"
+  ],
+  "tags": [
+    "Elecrow"
+  ],
+  "requiresDfu": true
+}

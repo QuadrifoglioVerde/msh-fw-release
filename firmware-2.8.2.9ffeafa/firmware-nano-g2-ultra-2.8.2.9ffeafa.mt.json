@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.9ffeafa",
+  "build_epoch": 1793664000,
+  "platformioTarget": "nano-g2-ultra",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nano-g2-ultra-2.8.2.9ffeafa.elf",
+      "md5": "0dd678fbf7ce313e63b5a565b5604cd2",
+      "bytes": 1173400
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.8.2.9ffeafa.hex",
+      "md5": "5250c7cf798ee103f609ec658af4d897",
+      "bytes": 2023631
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.8.2.9ffeafa.uf2",
+      "md5": "1bb11e7db8f13c4336f5a6c81d14bdfb",
+      "bytes": 1439232
+    },
+    {
+      "name": "firmware-nano-g2-ultra-2.8.2.9ffeafa-ota.zip",
+      "md5": "2e6cb303821e75c0737e944f66b25943",
+      "bytes": 720395
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96552,
+  "flash_bytes": 719424,
+  "hwModel": 18,
+  "hwModelSlug": "NANO_G2_ULTRA",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Nano G2 Ultra",
+  "supportLevel": 2,
+  "images": [
+    "nano-g2-ultra.svg"
+  ],
+  "tags": [
+    "B&Q"
+  ],
+  "requiresDfu": true
+}
