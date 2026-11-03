@@ -1,0 +1,32 @@
+{
+  "version": "2.8.2.77a1d7d",
+  "build_epoch": 1793664000,
+  "platformioTarget": "rak3172",
+  "mcu": "stm32wle5ccu",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak3172-2.8.2.77a1d7d.elf",
+      "md5": "64e3e9cc9ab6a7c11503af4a040564de",
+      "bytes": 8551104
+    },
+    {
+      "name": "firmware-rak3172-2.8.2.77a1d7d.bin",
+      "md5": "0839830ff32e4983ca3fe4ee273a41ca",
+      "bytes": 217764,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-rak3172-2.8.2.77a1d7d.hex",
+      "md5": "ea97703fe1b3320d55f4e2fe8341e2ac",
+      "bytes": 612596
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 25352,
+  "flash_bytes": 217756,
+  "architecture": "stm32",
+  "displayName": "rak3172",
+  "activelySupported": false
+}

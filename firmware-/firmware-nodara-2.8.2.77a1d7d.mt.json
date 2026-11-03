@@ -1,0 +1,43 @@
+{
+  "version": "2.8.2.77a1d7d",
+  "build_epoch": 1793664000,
+  "platformioTarget": "nodara",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-nodara-2.8.2.77a1d7d.elf",
+      "md5": "e34b626551b17227a3e968a519898562",
+      "bytes": 1198404
+    },
+    {
+      "name": "firmware-nodara-2.8.2.77a1d7d.hex",
+      "md5": "3fe1b72e21bcd4cf92263d870fa836ba",
+      "bytes": 2068406
+    },
+    {
+      "name": "firmware-nodara-2.8.2.77a1d7d.uf2",
+      "md5": "ee2a45ab914b3d0d18b47d106bd7f8b5",
+      "bytes": 1470976
+    },
+    {
+      "name": "firmware-nodara-2.8.2.77a1d7d-ota.zip",
+      "md5": "63cac790f2c1e911e9cdba749155d5b4",
+      "bytes": 736272
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 95952,
+  "flash_bytes": 735344,
+  "hwModel": 151,
+  "hwModelSlug": "NODARA",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Nodara",
+  "supportLevel": 1,
+  "tags": [
+    "Nodara"
+  ],
+  "requiresDfu": true
+}
