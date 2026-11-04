@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.3991fd8",
+  "build_epoch": 1793750400,
+  "platformioTarget": "rak_wismesh_pod",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.elf",
+      "md5": "8df7a6be2d5937c4710e91053805c401",
+      "bytes": 917708
+    },
+    {
+      "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.hex",
+      "md5": "3b38a58fa3ea875219dd14ff617ee388",
+      "bytes": 1566139
+    },
+    {
+      "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.uf2",
+      "md5": "178e9b309f29cb59e43ece2d49cdb9b7",
+      "bytes": 1113600
+    },
+    {
+      "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8-ota.zip",
+      "md5": "ef0f143f378ad5623c1e61f2816f6de4",
+      "bytes": 557759
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 86512,
+  "flash_bytes": 556776,
+  "hwModel": 105,
+  "hwModelSlug": "WISMESH_TAG",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "RAK WisMesh Pod",
+  "supportLevel": 1,
+  "images": [
+    "rak_wismesh_tag.svg"
+  ],
+  "tags": [
+    "RAK"
+  ],
+  "requiresDfu": true
+}
