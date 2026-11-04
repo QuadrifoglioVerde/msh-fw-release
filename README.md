@@ -1,7 +1,7 @@
 Repozitář s binárkami pro zařízení Meshtastic
 
 Poslední verze:
-- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.8.2.9ffeafa" target="_blank">v2.8.2</a>
+- <a href="https://github.com/QuadrifoglioVerde/msh-fw-release/tree/main/firmware-2.8.2.3991fd8" target="_blank">v2.8.2</a>
 
 Od verze 2.8.1 - Příkazy pro FAV Modul (pouze přes DM a uzel musí být ROUTER/ROUTER_LATE/CLIENT_BASE:
 - FAV (vypíše seznam favoritů)
