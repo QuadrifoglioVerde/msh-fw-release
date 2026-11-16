@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "seeed-sensecap-indicator",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-seeed-sensecap-indicator-2.8.2.3991fd8.elf",
-      "md5": "2eeaec475a46a5bf1e7b1cefbebf4610",
-      "bytes": 50830752
+      "md5": "37d35c3a81854a6f0f06edbacbfaa41e",
+      "bytes": 50838424
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.8.2.3991fd8.bin",
-      "md5": "ac454602bad310787d84e84e0cbd1fe9",
-      "bytes": 2363200,
+      "md5": "161a81826e71cb2021f1cc9ce3cb87d3",
+      "bytes": 2363968,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.8.2.3991fd8.factory.bin",
-      "md5": "cc4f7028b4e01efde7f884287a7f37e7",
-      "bytes": 2428736
+      "md5": "20483e988f04617b8a255a00695f3105",
+      "bytes": 2429504
     },
     {
       "name": "littlefs-seeed-sensecap-indicator-2.8.2.3991fd8.bin",
-      "md5": "76f2e0d582225dd89c54cf746b3a3e03",
+      "md5": "f91d795c1f7efbaadc828832deab87a8",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 104484,
-  "flash_bytes": 2388015,
+  "flash_bytes": 2388795,
   "part": [
     {
       "name": "nvs",

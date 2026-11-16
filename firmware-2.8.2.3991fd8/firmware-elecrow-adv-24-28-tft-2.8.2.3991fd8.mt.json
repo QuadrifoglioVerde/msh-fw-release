@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "elecrow-adv-24-28-tft",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.8.2.3991fd8.elf",
-      "md5": "ef5676c30fb8f6d02587c8c84a6d2360",
-      "bytes": 55360732
+      "md5": "f431fbe047d71b1366a78eed45b1ecf0",
+      "bytes": 55368400
     },
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.8.2.3991fd8.bin",
-      "md5": "26889a3d85d03ba1419486b431862523",
-      "bytes": 3532896,
+      "md5": "d83c57845abbbf3ad7ef913e7d53cd74",
+      "bytes": 3533680,
       "part_name": "app0"
     },
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.8.2.3991fd8.factory.bin",
-      "md5": "9f169b336c8a5cda28fd46e0bffc80b3",
-      "bytes": 3598432
+      "md5": "3cbe3d7cb53d6eace05e42ca297ec62c",
+      "bytes": 3599216
     },
     {
       "name": "littlefs-elecrow-adv-24-28-tft-2.8.2.3991fd8.bin",
-      "md5": "00105e19abc08b0db80f5e11bd07b714",
+      "md5": "3c903386385b5678a27f4196faf9e6f6",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": true,
   "has_inkhud": false,
   "ram_bytes": 99800,
-  "flash_bytes": 3557715,
+  "flash_bytes": 3558507,
   "part": [
     {
       "name": "nvs",

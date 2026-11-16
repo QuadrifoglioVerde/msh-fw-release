@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "tlora-t3s3-epaper",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-2.8.2.3991fd8.elf",
-      "md5": "8373599251fc830b54276227753cd618",
-      "bytes": 44962128
+      "md5": "5aaba42f010c46e0c3669d4c9f56cbe8",
+      "bytes": 44969792
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.8.2.3991fd8.bin",
-      "md5": "c59131aa2e668bd966e689eb228e55df",
-      "bytes": 2135424,
+      "md5": "94b962193d6d3f96213a59f3a53c83e8",
+      "bytes": 2136224,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.8.2.3991fd8.factory.bin",
-      "md5": "2ede4765869a8ef84475d28fdbaf85e3",
-      "bytes": 2200960
+      "md5": "9918321f74211cba472230902c1e8373",
+      "bytes": 2201760
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-2.8.2.3991fd8.bin",
-      "md5": "081269576cd8f91ba7471a0c34b39dd3",
+      "md5": "f7fc1c2352d21b0972ce0f923a8e3e91",
       "bytes": 786432,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 92184,
-  "flash_bytes": 2160247,
+  "flash_bytes": 2161047,
   "part": [
     {
       "name": "nvs",

@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismesh_sensorhub",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismesh_sensorhub-2.8.2.3991fd8.elf",
-      "md5": "3b0470f441c26dd0a8e6889e919c3725",
+      "md5": "ce6bf058d1a1502679a1e78d645d9ec5",
       "bytes": 1192348
     },
     {
       "name": "firmware-rak_wismesh_sensorhub-2.8.2.3991fd8.hex",
-      "md5": "bc6d31fbbb1f9f90cc17d13ea3c289da",
+      "md5": "af4df4510f3b055f0e2f0259f9fd17dc",
       "bytes": 2063337
     },
     {
       "name": "firmware-rak_wismesh_sensorhub-2.8.2.3991fd8.uf2",
-      "md5": "0488de65c4166df93aa6aa9acd78149f",
+      "md5": "a840ddb9107d9eab87fa159ffac241b8",
       "bytes": 1467392
     },
     {
       "name": "firmware-rak_wismesh_sensorhub-2.8.2.3991fd8-ota.zip",
-      "md5": "72f4610da211e8d9475db91cc2dd1e87",
+      "md5": "5e3dc2db654a64091c293ee03a6834ee",
       "bytes": 734563
     }
   ],

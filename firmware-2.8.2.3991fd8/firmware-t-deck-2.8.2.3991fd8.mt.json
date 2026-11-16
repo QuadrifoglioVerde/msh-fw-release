@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-deck",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-deck-2.8.2.3991fd8.elf",
-      "md5": "772383b716e84f8f4ff2d573a02e4d1f",
-      "bytes": 52569520
+      "md5": "2f245c3fa143f46263da01b1a8b679ff",
+      "bytes": 52577204
     },
     {
       "name": "firmware-t-deck-2.8.2.3991fd8.bin",
-      "md5": "5a8cae97297fb598d477ca43edb40e1d",
-      "bytes": 2409424,
+      "md5": "895abfe5d4c66b143289b2d46c5d06b6",
+      "bytes": 2410224,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-deck-2.8.2.3991fd8.factory.bin",
-      "md5": "e3e5498ee79b9a44cfd42a3b6a8a3841",
-      "bytes": 2474960
+      "md5": "3452ba373951e61a5a5017304c63bce4",
+      "bytes": 2475760
     },
     {
       "name": "littlefs-t-deck-2.8.2.3991fd8.bin",
-      "md5": "cc4deba3a92ba13144c5d8e15f13a530",
+      "md5": "da413cf5a18027be751eee43deb253b4",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 100624,
-  "flash_bytes": 2434247,
+  "flash_bytes": 2435039,
   "part": [
     {
       "name": "nvs",

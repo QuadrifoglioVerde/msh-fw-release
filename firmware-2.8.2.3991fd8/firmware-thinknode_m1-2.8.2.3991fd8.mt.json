@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_m1",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_m1-2.8.2.3991fd8.elf",
-      "md5": "1da04f5ce4cff9b9ad69b1b69145f408",
+      "md5": "72473aca36bdc8b7d62657aacc8d1adc",
       "bytes": 1181812
     },
     {
       "name": "firmware-thinknode_m1-2.8.2.3991fd8.hex",
-      "md5": "d7f9855317f0d7838752ffa9b563be9d",
+      "md5": "198c122294c577e8d2b73813bffb6630",
       "bytes": 2035691
     },
     {
       "name": "firmware-thinknode_m1-2.8.2.3991fd8.uf2",
-      "md5": "1f8239323e61c426bce503b142a2753b",
+      "md5": "2283c0eb5158e81dbce7217d3970e500",
       "bytes": 1447424
     },
     {
       "name": "firmware-thinknode_m1-2.8.2.3991fd8-ota.zip",
-      "md5": "a5e6331d9289be9aaaf29c6809e8bf81",
+      "md5": "d5c96b79aa4ce081be4defb04b71f1d7",
       "bytes": 724677
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_g3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_g3-2.8.2.3991fd8.elf",
-      "md5": "577f4e2836f6c7bcf54df175dcae9146",
-      "bytes": 47555992
+      "md5": "696c42f065207e140b08a0e845b1d339",
+      "bytes": 47567800
     },
     {
       "name": "firmware-thinknode_g3-2.8.2.3991fd8.bin",
-      "md5": "ca52c6621b404de8442655fe85cdfccf",
-      "bytes": 2327408,
+      "md5": "2cb691a90c4f7c0b0ec4c22d7e315aa1",
+      "bytes": 2328176,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_g3-2.8.2.3991fd8.factory.bin",
-      "md5": "1e0ef9194e74cdf5e6171d848dd62120",
-      "bytes": 2392944
+      "md5": "dc53db63573f8d51df8718409aa92d18",
+      "bytes": 2393712
     },
     {
       "name": "littlefs-thinknode_g3-2.8.2.3991fd8.bin",
-      "md5": "ccb75e960d4573a42b0e66b301775a13",
+      "md5": "13e9dfd1eecf3befd886cfcf4fb69737",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99024,
-  "flash_bytes": 2352231,
+  "flash_bytes": 2353003,
   "part": [
     {
       "name": "nvs",

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "seeed_wio_tracker_L1_Pro_1W",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.2.3991fd8.elf",
-      "md5": "5e74836bcdde19a37011f00aaf1efcf7",
+      "md5": "d334fa4cc9d70a267dad33dd04322a74",
       "bytes": 1174976
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.2.3991fd8.hex",
-      "md5": "c8ee9bf7ef37ca3dfab03fd239251c26",
+      "md5": "98ba32a5ee5651a07b746eb62391b482",
       "bytes": 2028266
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.2.3991fd8.uf2",
-      "md5": "5d8c7b8e456d8f058b135c3d2d87575b",
+      "md5": "7e657634e149edd9c057ebb44cb7bfa8",
       "bytes": 1442304
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.2.3991fd8-ota.zip",
-      "md5": "f8643ef8800bea1e8f69e69feac659da",
-      "bytes": 722127
+      "md5": "19b1f84a28bc0c61491dd5776529d6e3",
+      "bytes": 722125
     }
   ],
   "has_mui": false,

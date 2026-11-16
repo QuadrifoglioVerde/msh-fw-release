@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-beam-bpf",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-beam-bpf-2.8.2.3991fd8.elf",
-      "md5": "aaeffd5e699d182939e7dc78d24e5ea3",
-      "bytes": 47936976
+      "md5": "6e6861476216be1cbc4c386f91ae4b72",
+      "bytes": 47948744
     },
     {
       "name": "firmware-t-beam-bpf-2.8.2.3991fd8.bin",
-      "md5": "40fdd2837963c6779fea3eb804d9aeb7",
-      "bytes": 2337744,
+      "md5": "67ab08a1adbd3770525f0deef6c665d2",
+      "bytes": 2338528,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-beam-bpf-2.8.2.3991fd8.factory.bin",
-      "md5": "6a6b9550efa82bfae51d17d9316977e1",
-      "bytes": 2403280
+      "md5": "ac239371723d3ab372f1ec53a6236eb8",
+      "bytes": 2404064
     },
     {
       "name": "littlefs-t-beam-bpf-2.8.2.3991fd8.bin",
-      "md5": "a62c2b4e77bf5f9d499f46066a946e4d",
+      "md5": "86ecbb0a2beab5bbb236019e333dae79",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 98620,
-  "flash_bytes": 2362559,
+  "flash_bytes": 2363351,
   "part": [
     {
       "name": "nvs",

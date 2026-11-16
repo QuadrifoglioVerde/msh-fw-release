@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "hackaday-communicator",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-hackaday-communicator-2.8.2.3991fd8.elf",
-      "md5": "c8756b5cf759ed0457e7d1cd52ea6727",
-      "bytes": 48208136
+      "md5": "3f6e76f068fa8ddb7f23a884795e5831",
+      "bytes": 48219896
     },
     {
       "name": "firmware-hackaday-communicator-2.8.2.3991fd8.bin",
-      "md5": "6700d3148072fa7c02af1443c795bb29",
-      "bytes": 2322640,
+      "md5": "bc5c554b49dd927cb99033434eb69c98",
+      "bytes": 2323440,
       "part_name": "app0"
     },
     {
       "name": "firmware-hackaday-communicator-2.8.2.3991fd8.factory.bin",
-      "md5": "5569a74f7100629bf902ecd59135365c",
-      "bytes": 2388176
+      "md5": "cc4b1e03e2decb681a9461fd8293c875",
+      "bytes": 2388976
     },
     {
       "name": "littlefs-hackaday-communicator-2.8.2.3991fd8.bin",
-      "md5": "bd469516bb8fbb56e22ee8e099435f4d",
+      "md5": "1202c7c712dc9df180a90a9320d29efb",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99620,
-  "flash_bytes": 2347463,
+  "flash_bytes": 2348255,
   "part": [
     {
       "name": "nvs",

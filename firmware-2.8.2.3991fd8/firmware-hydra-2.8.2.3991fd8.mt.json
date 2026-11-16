@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "hydra",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-hydra-2.8.2.3991fd8.elf",
-      "md5": "37dbef70f5fd55df39a263e58927f5d8",
-      "bytes": 40011924
+      "md5": "c99fb729a6fa8b37916222b8d9810efb",
+      "bytes": 40019356
     },
     {
       "name": "firmware-hydra-2.8.2.3991fd8.bin",
-      "md5": "05a8c58677302dffbfe9a14cce3d3d2c",
-      "bytes": 2041008,
+      "md5": "0d59d42827c214df4be322e16a2dcff6",
+      "bytes": 2041824,
       "part_name": "app0"
     },
     {
       "name": "firmware-hydra-2.8.2.3991fd8.factory.bin",
-      "md5": "aa1b63f71510dbde5dd2d0e86ab51127",
-      "bytes": 2106544
+      "md5": "9f67e4b75ddfebedefe112e5b2ca7169",
+      "bytes": 2107360
     },
     {
       "name": "littlefs-hydra-2.8.2.3991fd8.bin",
-      "md5": "9cadaf03ca21d830f5a5349ba53f4623",
+      "md5": "0457ed7508432aaa3e31a2fab013b9af",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 108844,
-  "flash_bytes": 2065682,
+  "flash_bytes": 2066506,
   "part": [
     {
       "name": "nvs",

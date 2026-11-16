@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-wireless-paper",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-wireless-paper-2.8.2.3991fd8.elf",
-      "md5": "8dbdc1b5a5e2e01c7963d83587fe1ba5",
-      "bytes": 47684872
+      "md5": "5e350eaf49e82a7e537f19e3958445fa",
+      "bytes": 47692544
     },
     {
       "name": "firmware-heltec-wireless-paper-2.8.2.3991fd8.bin",
-      "md5": "b6a4521f57b5ba7004ed9aacbcf39824",
-      "bytes": 2292608,
+      "md5": "e05168c2377fff7ea946544a49dbb5e0",
+      "bytes": 2293392,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-paper-2.8.2.3991fd8.factory.bin",
-      "md5": "5656131433b1473ad7d2096fa478faad",
-      "bytes": 2358144
+      "md5": "c63ab88ff49850fc25a7cd8d3df96205",
+      "bytes": 2358928
     },
     {
       "name": "littlefs-heltec-wireless-paper-2.8.2.3991fd8.bin",
-      "md5": "7b773c21a67c534ef4ebc908a4ab02ee",
+      "md5": "8c9d154282e3b2d54071f4d27556b5d8",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 127768,
-  "flash_bytes": 2317423,
+  "flash_bytes": 2318219,
   "part": [
     {
       "name": "nvs",

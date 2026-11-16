@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_m1-inkhud",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_m1-inkhud-2.8.2.3991fd8.elf",
-      "md5": "580390784dddd2687da2a2e01c59b7c6",
+      "md5": "d9b246b75846842a9875cdf5b98c4b45",
       "bytes": 1129264
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.8.2.3991fd8.hex",
-      "md5": "35ee131f8a29cf9e08dfdfb6167c1530",
+      "md5": "fbfe32fff7da1a128d15374f0cbde438",
       "bytes": 1951643
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.8.2.3991fd8.uf2",
-      "md5": "90147d1b9b9682e55dff9f250c80d991",
+      "md5": "c1ae3b17eb0f912b9d9e2f0f85108f58",
       "bytes": 1388032
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.8.2.3991fd8-ota.zip",
-      "md5": "ad37dbd04d667aa0b50abacd7989866e",
+      "md5": "ca59d17a33452f4230f4bc8137a5f790",
       "bytes": 694839
     }
   ],

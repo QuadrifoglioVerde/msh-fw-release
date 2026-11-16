@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-mesh-tower-v2",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-mesh-tower-v2-2.8.2.3991fd8.elf",
-      "md5": "8826cbc58b1b20d3bb900f76f4b8fdd3",
+      "md5": "95c92cc5cdf8a5fe3eabb5d3d3dc8aa1",
       "bytes": 1169204
     },
     {
       "name": "firmware-heltec-mesh-tower-v2-2.8.2.3991fd8.hex",
-      "md5": "412b4333977e7df4af4e38626363e9b5",
+      "md5": "96888f45d4453769d031e67fab7a834f",
       "bytes": 2020137
     },
     {
       "name": "firmware-heltec-mesh-tower-v2-2.8.2.3991fd8.uf2",
-      "md5": "9c0a4dd3ec12a24293a61e2edb83325e",
+      "md5": "01a950cb63608219b6fb9e53f07e126b",
       "bytes": 1436672
     },
     {
       "name": "firmware-heltec-mesh-tower-v2-2.8.2.3991fd8-ota.zip",
-      "md5": "d86968b65df7e2b439b1a6c1b9e36b51",
-      "bytes": 719196
+      "md5": "9a7a17e6ad8dcbd2e8b7b9a702d12f48",
+      "bytes": 719197
     }
   ],
   "has_mui": false,

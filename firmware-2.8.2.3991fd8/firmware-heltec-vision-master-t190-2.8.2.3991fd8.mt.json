@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-vision-master-t190",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-vision-master-t190-2.8.2.3991fd8.elf",
-      "md5": "2d83e336f5fd7332a4f0447d3a1823ad",
-      "bytes": 47833344
+      "md5": "0e575bae793d2722bcb928e88a06682a",
+      "bytes": 47845104
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.8.2.3991fd8.bin",
-      "md5": "de87ed49caa5f7ad2764df1e790b6e2c",
-      "bytes": 2308544,
+      "md5": "9a8f3a360b3066ecf06b07c0ef5ba25c",
+      "bytes": 2309312,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.8.2.3991fd8.factory.bin",
-      "md5": "07d78c12d2a27b94c60b5dce1dce8dd1",
-      "bytes": 2374080
+      "md5": "2b6f4b384075601e200186d6baebe8ff",
+      "bytes": 2374848
     },
     {
       "name": "littlefs-heltec-vision-master-t190-2.8.2.3991fd8.bin",
-      "md5": "77188b12979cacd85d9d57ee90fa76ae",
+      "md5": "9f7e43b305a0e6805ebfac05b0d48b94",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99580,
-  "flash_bytes": 2333359,
+  "flash_bytes": 2334135,
   "part": [
     {
       "name": "nvs",

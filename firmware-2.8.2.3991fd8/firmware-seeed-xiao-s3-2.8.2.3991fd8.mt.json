@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "seeed-xiao-s3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-seeed-xiao-s3-2.8.2.3991fd8.elf",
-      "md5": "2643a4261d1d7532706b4d83a1331a8a",
-      "bytes": 47504856
+      "md5": "e2a3cfce82f348086dc3d230b72fc074",
+      "bytes": 47512524
     },
     {
       "name": "firmware-seeed-xiao-s3-2.8.2.3991fd8.bin",
-      "md5": "803f2290503d32beac0514a65a79c452",
-      "bytes": 2296720,
+      "md5": "fd68c3da9478ef45a007f419e324bfc4",
+      "bytes": 2297504,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-xiao-s3-2.8.2.3991fd8.factory.bin",
-      "md5": "32ab04ed3356ab6cfdc68f266b952b65",
-      "bytes": 2362256
+      "md5": "51f48193fa2057b3c3ce81f99a57c230",
+      "bytes": 2363040
     },
     {
       "name": "littlefs-seeed-xiao-s3-2.8.2.3991fd8.bin",
-      "md5": "78f274f202781b63b6101f421a1aa837",
+      "md5": "8bc49504da007966a78f565a06e1b44c",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99292,
-  "flash_bytes": 2321539,
+  "flash_bytes": 2322331,
   "part": [
     {
       "name": "nvs",

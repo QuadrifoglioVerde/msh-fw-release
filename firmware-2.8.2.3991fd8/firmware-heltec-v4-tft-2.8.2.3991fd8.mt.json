@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-v4-tft",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-v4-tft-2.8.2.3991fd8.elf",
-      "md5": "1553a1361a9b6ebd5026a6c68fe8b97c",
-      "bytes": 60012536
+      "md5": "dc49496c9be556e6a07eb7665bd48a2b",
+      "bytes": 60020204
     },
     {
       "name": "firmware-heltec-v4-tft-2.8.2.3991fd8.bin",
-      "md5": "f26265f88872de01a6724a5489913340",
-      "bytes": 3788448,
+      "md5": "b04ed1a45371205f56e902a5e9d2b887",
+      "bytes": 3789216,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-tft-2.8.2.3991fd8.factory.bin",
-      "md5": "aa240400253771b7bcc3f8cfa12a772c",
-      "bytes": 3853984
+      "md5": "b785445323b1fad4688bada5548cb080",
+      "bytes": 3854752
     },
     {
       "name": "littlefs-heltec-v4-tft-2.8.2.3991fd8.bin",
-      "md5": "61899e07e09fc4b2fb8848e805801879",
+      "md5": "b8f53e0878355ce1607ee91b786eaa98",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": true,
   "has_inkhud": false,
   "ram_bytes": 111848,
-  "flash_bytes": 3813263,
+  "flash_bytes": 3814039,
   "part": [
     {
       "name": "nvs",

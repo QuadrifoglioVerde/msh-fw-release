@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismesh_tap_v2-tft",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismesh_tap_v2-tft-2.8.2.3991fd8.elf",
-      "md5": "028baa31e92031198bef5c6b8915cb2e",
-      "bytes": 55873476
+      "md5": "f4fa0b1089a047aaeb0d369e1ea8aa89",
+      "bytes": 55881132
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-tft-2.8.2.3991fd8.bin",
-      "md5": "0dabd6b39f71bc1e4a79467f8d2762ea",
-      "bytes": 3600464,
+      "md5": "e43a203a91f7f0d81ffe3e4b35576bc1",
+      "bytes": 3601248,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-tft-2.8.2.3991fd8.factory.bin",
-      "md5": "cb5bac4d8aa81ebf54fa87e0c8782d5f",
-      "bytes": 3666000
+      "md5": "700ac3ebbad8eb179f204701942899be",
+      "bytes": 3666784
     },
     {
       "name": "littlefs-rak_wismesh_tap_v2-tft-2.8.2.3991fd8.bin",
-      "md5": "2b7024df322c90baf5ee4dff70c6dba8",
+      "md5": "bbc1b1a360b4db1cb6b1e75c0ec9ed6d",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": true,
   "has_inkhud": false,
   "ram_bytes": 100696,
-  "flash_bytes": 3625283,
+  "flash_bytes": 3626075,
   "part": [
     {
       "name": "nvs",

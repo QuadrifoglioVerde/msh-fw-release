@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t5s3-epaper-v2",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t5s3-epaper-v2-2.8.2.3991fd8.elf",
-      "md5": "54aed1a5594131d21313f48a8d205890",
-      "bytes": 50099980
+      "md5": "e2cf192d7424196818b6d401ed578b71",
+      "bytes": 50107752
     },
     {
       "name": "firmware-t5s3-epaper-v2-2.8.2.3991fd8.bin",
-      "md5": "67746fbf08d29ec2678613a7044a8440",
-      "bytes": 2387920,
+      "md5": "cb30a4696ba606b10f123f6317f95c3a",
+      "bytes": 2388720,
       "part_name": "app0"
     },
     {
       "name": "firmware-t5s3-epaper-v2-2.8.2.3991fd8.factory.bin",
-      "md5": "20d144078b0907a1eccacc4d86e304f5",
-      "bytes": 2453456
+      "md5": "8f62b7f3944879a7a5f71b84b5b15a2a",
+      "bytes": 2454256
     },
     {
       "name": "littlefs-t5s3-epaper-v2-2.8.2.3991fd8.bin",
-      "md5": "aef5f71ad19cfd7e06ec683752368cb8",
+      "md5": "2080836108b80a0fe144de428a037821",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 103372,
-  "flash_bytes": 2412735,
+  "flash_bytes": 2413535,
   "part": [
     {
       "name": "nvs",

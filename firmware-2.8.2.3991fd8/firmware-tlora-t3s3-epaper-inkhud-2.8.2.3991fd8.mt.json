@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "tlora-t3s3-epaper-inkhud",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.8.2.3991fd8.elf",
-      "md5": "aec3bc58ba6292c290c147fd1c17023b",
-      "bytes": 49371308
+      "md5": "86f751826e432c6150f6bd90e36e97f5",
+      "bytes": 49378980
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.8.2.3991fd8.bin",
-      "md5": "7f1a7820fa03843a82f79534aa185fc3",
-      "bytes": 2106224,
+      "md5": "defd786d84e8bb7ea11f5643ca8cba98",
+      "bytes": 2107024,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.8.2.3991fd8.factory.bin",
-      "md5": "7a3972bd81486c13f3536c988a1fb939",
-      "bytes": 2171760
+      "md5": "c15c5a53e32a594756827d07f4f459e6",
+      "bytes": 2172560
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-inkhud-2.8.2.3991fd8.bin",
-      "md5": "8ab146d78a6f17026fa55af514113439",
+      "md5": "b4ebfc3fb61d956f2de5beae78d96ca6",
       "bytes": 786432,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": true,
   "ram_bytes": 97904,
-  "flash_bytes": 2131051,
+  "flash_bytes": 2131847,
   "part": [
     {
       "name": "nvs",

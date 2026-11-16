@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-vision-master-e290",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-vision-master-e290-2.8.2.3991fd8.elf",
-      "md5": "2427b697ce4952cc70f5ee7a029ae3d9",
-      "bytes": 47925456
+      "md5": "90d83dff1a1badd35f8af4d17020b400",
+      "bytes": 47933132
     },
     {
       "name": "firmware-heltec-vision-master-e290-2.8.2.3991fd8.bin",
-      "md5": "444caa956a9212c1e082cdf2227f1a7f",
-      "bytes": 2309296,
+      "md5": "b25006ee07ddc16d3627c1bc2a43e417",
+      "bytes": 2310064,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e290-2.8.2.3991fd8.factory.bin",
-      "md5": "2f80bfe893788d3ac2ad00290882dfd4",
-      "bytes": 2374832
+      "md5": "8540c7d40f4394770db91fd00d08aa1b",
+      "bytes": 2375600
     },
     {
       "name": "littlefs-heltec-vision-master-e290-2.8.2.3991fd8.bin",
-      "md5": "fa3d69080e234c93c6402f853071f94b",
+      "md5": "115aaefcb00ec3daa537e0a4c712e4b7",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99420,
-  "flash_bytes": 2334111,
+  "flash_bytes": 2334887,
   "part": [
     {
       "name": "nvs",

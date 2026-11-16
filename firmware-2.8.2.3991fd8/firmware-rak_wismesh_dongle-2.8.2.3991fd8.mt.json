@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismesh_dongle",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismesh_dongle-2.8.2.3991fd8.elf",
-      "md5": "05d480b92c0e9581e9ad9741b1499a4b",
+      "md5": "9212a1928c49aa233feed4ec81ed7c25",
       "bytes": 885200
     },
     {
       "name": "firmware-rak_wismesh_dongle-2.8.2.3991fd8.hex",
-      "md5": "28e3f8b400578712388ade594c9d9fdc",
+      "md5": "98a7c4b8c2039732b4512c37925fd600",
       "bytes": 1500905
     },
     {
       "name": "firmware-rak_wismesh_dongle-2.8.2.3991fd8.uf2",
-      "md5": "f0e0d454a5dcde5e60cf18d2ed7fac5f",
+      "md5": "d6b9417b995bea0692c638fa2d47844d",
       "bytes": 1067520
     },
     {
       "name": "firmware-rak_wismesh_dongle-2.8.2.3991fd8-ota.zip",
-      "md5": "d6bccc7ff6536fb784d0d10b17339cb0",
-      "bytes": 534584
+      "md5": "00eca158cd5cbb3cf4d06f00105192e0",
+      "bytes": 534585
     }
   ],
   "has_mui": false,

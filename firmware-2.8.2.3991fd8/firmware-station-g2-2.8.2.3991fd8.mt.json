@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "station-g2",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-station-g2-2.8.2.3991fd8.elf",
-      "md5": "f2eecd9053264443354defc1e5644899",
-      "bytes": 47506740
+      "md5": "7128986e48ae37f8a10c15beba7e5680",
+      "bytes": 47514412
     },
     {
       "name": "firmware-station-g2-2.8.2.3991fd8.bin",
-      "md5": "fb9cd2b3912acf999df4d5ed6071d657",
-      "bytes": 2296848,
+      "md5": "fe7c3e5f587800c8a3035c802ea87983",
+      "bytes": 2297632,
       "part_name": "app0"
     },
     {
       "name": "firmware-station-g2-2.8.2.3991fd8.factory.bin",
-      "md5": "ead8ccf67311950d6ff2b41c73314867",
-      "bytes": 2362384
+      "md5": "21755320ff9a7c15548fa5146f7ff727",
+      "bytes": 2363168
     },
     {
       "name": "littlefs-station-g2-2.8.2.3991fd8.bin",
-      "md5": "d2e712a9e3cb328619226478501faf17",
+      "md5": "40b997040ea4cb7316c521634e5e853d",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99284,
-  "flash_bytes": 2321671,
+  "flash_bytes": 2322451,
   "part": [
     {
       "name": "nvs",

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak11200",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak11200-2.8.2.3991fd8.elf",
-      "md5": "f2f2397badaf69a3406c43984515ad58",
-      "bytes": 38348516
+      "md5": "aec020abb00f099b9849688237fecb44",
+      "bytes": 38356036
     },
     {
       "name": "firmware-rak11200-2.8.2.3991fd8.bin",
-      "md5": "c035f6fd91813b1d55b05617eb3e7702",
-      "bytes": 1930896,
+      "md5": "3c726fab6035fe31fef318bae9ae6a74",
+      "bytes": 1931728,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak11200-2.8.2.3991fd8.factory.bin",
-      "md5": "912669a4ae3e51b1d699c04f5897bea0",
-      "bytes": 1996432
+      "md5": "55e0bf08861c0cdcbe317258ec782252",
+      "bytes": 1997264
     },
     {
       "name": "littlefs-rak11200-2.8.2.3991fd8.bin",
-      "md5": "5906ed0aa86561234c6d0befe8e72507",
+      "md5": "7433d5906a5060a35492d6fee5c7810e",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 88076,
-  "flash_bytes": 1955578,
+  "flash_bytes": 1956402,
   "part": [
     {
       "name": "nvs",

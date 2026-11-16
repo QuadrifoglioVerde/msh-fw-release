@@ -1,33 +1,33 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "wio-sdk-wm1110",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-wio-sdk-wm1110-2.8.2.3991fd8.elf",
-      "md5": "bbe2b45dfc56bbf93b1e7ee7a4688bff",
+      "md5": "a64598df800d2d6e730b6fcf8f6ba4ca",
       "bytes": 1143772
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.8.2.3991fd8.hex",
-      "md5": "d456d176dd29757b67997c5434d1642c",
+      "md5": "a08c99352781fc8348eaf0a8b8cb3bc2",
       "bytes": 1976606
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.8.2.3991fd8.merged.hex",
-      "md5": "419a2ef18c540fe0ab619977790e6bb6",
+      "md5": "a59210886ac4db66744b932664cba73b",
       "bytes": 2414080
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.8.2.3991fd8.uf2",
-      "md5": "cdaabd592df05e5aa1b8a879966f9e13",
+      "md5": "9363ada020bed73737301aa5a63da59a",
       "bytes": 1716736
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.8.2.3991fd8-ota.zip",
-      "md5": "7c4a8625a81b89933d1cc47cdbf58670",
+      "md5": "0cf2190378f0ba06aee2c45792068fbc",
       "bytes": 703681
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "unphone",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-unphone-2.8.2.3991fd8.elf",
-      "md5": "355f90eecc09226e951a80d2b1fc3c5b",
-      "bytes": 50020400
+      "md5": "14284ea62092a0fce44ea07f23dd4aae",
+      "bytes": 50028072
     },
     {
       "name": "firmware-unphone-2.8.2.3991fd8.bin",
-      "md5": "dd8b5052a39f3863c9af470f5ba06a5e",
-      "bytes": 2308992,
+      "md5": "7f3554331f6e5872dc546a73e157b425",
+      "bytes": 2309808,
       "part_name": "app0"
     },
     {
       "name": "firmware-unphone-2.8.2.3991fd8.factory.bin",
-      "md5": "4002e31ed628b633f9b6a764940e2f5c",
-      "bytes": 2374528
+      "md5": "1f4fc9b8001d795191e73ec0264a6cf2",
+      "bytes": 2375344
     },
     {
       "name": "littlefs-unphone-2.8.2.3991fd8.bin",
-      "md5": "c87c75f94d0e47c218c159535205023f",
+      "md5": "c7d9c864069750c3e4a9369604bf3e4c",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99664,
-  "flash_bytes": 2333819,
+  "flash_bytes": 2334635,
   "part": [
     {
       "name": "nvs",

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-v4",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-v4-2.8.2.3991fd8.elf",
-      "md5": "4b6e6390d2e4646e083a762cf76d7fcb",
-      "bytes": 47811644
+      "md5": "3f353e6ca049691986a903c72e1ab056",
+      "bytes": 47823412
     },
     {
       "name": "firmware-heltec-v4-2.8.2.3991fd8.bin",
-      "md5": "d99feaca1684c2110020c534f6c754e0",
-      "bytes": 2303296,
+      "md5": "a4f65cef0f90d0c12d8049d4a89a7a25",
+      "bytes": 2304080,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-2.8.2.3991fd8.factory.bin",
-      "md5": "30aff1e501054629768b9269cbf8cfb3",
-      "bytes": 2368832
+      "md5": "3fba77d2245cbc0b54ac16d8e044440f",
+      "bytes": 2369616
     },
     {
       "name": "littlefs-heltec-v4-2.8.2.3991fd8.bin",
-      "md5": "db3268d71732e1644d56313bd4c6ab32",
+      "md5": "bda71980d17317ae57153a4949b4fa69",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 98496,
-  "flash_bytes": 2328111,
+  "flash_bytes": 2328903,
   "part": [
     {
       "name": "nvs",

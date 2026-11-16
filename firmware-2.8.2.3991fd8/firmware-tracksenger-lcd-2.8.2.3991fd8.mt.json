@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "tracksenger-lcd",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-tracksenger-lcd-2.8.2.3991fd8.elf",
-      "md5": "32f88493bc7644b3feceb039deedbe64",
-      "bytes": 49961164
+      "md5": "a8b59d07cb10be8be9a1a31ab9f14fa0",
+      "bytes": 49968836
     },
     {
       "name": "firmware-tracksenger-lcd-2.8.2.3991fd8.bin",
-      "md5": "c7883a870bb8ee115beac4f0ab4b035c",
-      "bytes": 2341616,
+      "md5": "b9cd227a895b146288c1e1d6aa89d56c",
+      "bytes": 2342400,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-lcd-2.8.2.3991fd8.factory.bin",
-      "md5": "122c23230435a75bf7d65958059251db",
-      "bytes": 2407152
+      "md5": "c64f7eea7cfa2f988f910bb2c324df06",
+      "bytes": 2407936
     },
     {
       "name": "littlefs-tracksenger-lcd-2.8.2.3991fd8.bin",
-      "md5": "c787e039fce9ab04702f5d6309c30acf",
+      "md5": "9f7e43b305a0e6805ebfac05b0d48b94",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 128604,
-  "flash_bytes": 2366439,
+  "flash_bytes": 2367215,
   "part": [
     {
       "name": "nvs",

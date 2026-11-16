@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismesh_pod",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.elf",
-      "md5": "8df7a6be2d5937c4710e91053805c401",
+      "md5": "5f81cc478ecfbcf00d8490cca19a5b87",
       "bytes": 917708
     },
     {
       "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.hex",
-      "md5": "3b38a58fa3ea875219dd14ff617ee388",
+      "md5": "b3897c8b3bea9672928464b97cc87d74",
       "bytes": 1566139
     },
     {
       "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8.uf2",
-      "md5": "178e9b309f29cb59e43ece2d49cdb9b7",
+      "md5": "7500f5c25e792a6e65a9975e53c4250c",
       "bytes": 1113600
     },
     {
       "name": "firmware-rak_wismesh_pod-2.8.2.3991fd8-ota.zip",
-      "md5": "ef0f143f378ad5623c1e61f2816f6de4",
+      "md5": "1cbc28ad3b1e08fe74fab7ffbe65664d",
       "bytes": 557759
     }
   ],

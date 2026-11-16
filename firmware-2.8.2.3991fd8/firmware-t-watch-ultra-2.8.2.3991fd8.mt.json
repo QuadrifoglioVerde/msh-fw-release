@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-watch-ultra",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-watch-ultra-2.8.2.3991fd8.elf",
-      "md5": "5a8a383970077572cf4304dbcd419b28",
-      "bytes": 54754592
+      "md5": "ca5c24a9a7ccd58807ea0023738541a8",
+      "bytes": 54762260
     },
     {
       "name": "firmware-t-watch-ultra-2.8.2.3991fd8.bin",
-      "md5": "2685a63a9cb0d523de79423d7110e6ef",
-      "bytes": 2616336,
+      "md5": "ad6aeefa9f39c9748d0c9b653ccd2201",
+      "bytes": 2617136,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-watch-ultra-2.8.2.3991fd8.factory.bin",
-      "md5": "488862feb21f740557e628396c79ebf9",
-      "bytes": 2681872
+      "md5": "632a02fc752528ea571e1e00e95c0607",
+      "bytes": 2682672
     },
     {
       "name": "littlefs-t-watch-ultra-2.8.2.3991fd8.bin",
-      "md5": "38d3422ee93024593619581a14f4ec08",
+      "md5": "26103559b120db78ebbcc3e60a83501d",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99776,
-  "flash_bytes": 2641163,
+  "flash_bytes": 2641955,
   "part": [
     {
       "name": "nvs",

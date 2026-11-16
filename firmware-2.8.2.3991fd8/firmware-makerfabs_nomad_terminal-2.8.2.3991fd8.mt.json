@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "makerfabs_nomad_terminal",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-makerfabs_nomad_terminal-2.8.2.3991fd8.elf",
-      "md5": "117c80d6693b76137389bfb684f11854",
-      "bytes": 50326268
+      "md5": "8e53372f3149fb7c29778a75183c0597",
+      "bytes": 50333932
     },
     {
       "name": "firmware-makerfabs_nomad_terminal-2.8.2.3991fd8.bin",
-      "md5": "74c15eb0c0961e28649c7208bb45360d",
-      "bytes": 2382128,
+      "md5": "6d6fb5f50f2fda7833adb2ffb9a8ac7b",
+      "bytes": 2382912,
       "part_name": "app0"
     },
     {
       "name": "firmware-makerfabs_nomad_terminal-2.8.2.3991fd8.factory.bin",
-      "md5": "eeed0d368c3557155bb9c190b48a0014",
-      "bytes": 2447664
+      "md5": "d79bfcd9714f4be7de6001277b1e1001",
+      "bytes": 2448448
     },
     {
       "name": "littlefs-makerfabs_nomad_terminal-2.8.2.3991fd8.bin",
-      "md5": "ec279dff5ed3648c556455b6e37cfb4f",
+      "md5": "083a0ba17aa474ecd43eba5558ab349f",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 100024,
-  "flash_bytes": 2406955,
+  "flash_bytes": 2407731,
   "part": [
     {
       "name": "nvs",

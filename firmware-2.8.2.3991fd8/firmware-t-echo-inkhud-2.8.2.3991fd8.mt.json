@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-echo-inkhud",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-echo-inkhud-2.8.2.3991fd8.elf",
-      "md5": "32105103e5e7dec4bb69c16edd0a3b40",
+      "md5": "f27f6e4b74b6f61abbe8abc63d52ca40",
       "bytes": 1138124
     },
     {
       "name": "firmware-t-echo-inkhud-2.8.2.3991fd8.hex",
-      "md5": "1961245aa09bbeb87534e5d775b65a15",
+      "md5": "f5e862e8f8d2ce3bb64b1ebe2dab7018",
       "bytes": 1968506
     },
     {
       "name": "firmware-t-echo-inkhud-2.8.2.3991fd8.uf2",
-      "md5": "e33738456f818fa3508477dcb740738c",
+      "md5": "7859522f610b749ea933d9bd204b1f94",
       "bytes": 1399808
     },
     {
       "name": "firmware-t-echo-inkhud-2.8.2.3991fd8-ota.zip",
-      "md5": "b84ca79363350b4b754d3213408ff20c",
+      "md5": "4432c044411eff591bfeeeef861845ff",
       "bytes": 700795
     }
   ],

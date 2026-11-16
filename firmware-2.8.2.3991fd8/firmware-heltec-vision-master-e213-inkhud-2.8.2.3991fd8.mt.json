@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-vision-master-e213-inkhud",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.8.2.3991fd8.elf",
-      "md5": "e4753601e313e381dc8afeea860ea190",
-      "bytes": 52355444
+      "md5": "a027eb9fab8854f8f6be1fe4679538f9",
+      "bytes": 52363108
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.8.2.3991fd8.bin",
-      "md5": "21bcc293959164bc626a5d992ec5e177",
-      "bytes": 2278480,
+      "md5": "c35d30a7113711cac40ec571d7410963",
+      "bytes": 2279280,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.8.2.3991fd8.factory.bin",
-      "md5": "341657e353b12cf089d2fe3fcc2e6348",
-      "bytes": 2344016
+      "md5": "d2cc23ec31ed6b075503f408465795ae",
+      "bytes": 2344816
     },
     {
       "name": "littlefs-heltec-vision-master-e213-inkhud-2.8.2.3991fd8.bin",
-      "md5": "a6a1e98634af2bb6b52edd904cac382c",
+      "md5": "8c1e3939baaf49f4d5b3cdf78356de3a",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": true,
   "ram_bytes": 88500,
-  "flash_bytes": 2303303,
+  "flash_bytes": 2304107,
   "part": [
     {
       "name": "nvs",

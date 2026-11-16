@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-wsl-v3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-wsl-v3-2.8.2.3991fd8.elf",
-      "md5": "f54e56759c1e9c92da5f7b6be4b3e2c9",
-      "bytes": 47514624
+      "md5": "1da88ed79fad25664ae000b8059220b3",
+      "bytes": 47522296
     },
     {
       "name": "firmware-heltec-wsl-v3-2.8.2.3991fd8.bin",
-      "md5": "4efa26a9e519754f44c7ab0b09307503",
-      "bytes": 2282224,
+      "md5": "2c3bfb7922e740ce51f687c7df499934",
+      "bytes": 2283024,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wsl-v3-2.8.2.3991fd8.factory.bin",
-      "md5": "ad016668ddcf8276dbf39529835de46b",
-      "bytes": 2347760
+      "md5": "caf77c0868b6e1645f0b97767ca36f0c",
+      "bytes": 2348560
     },
     {
       "name": "littlefs-heltec-wsl-v3-2.8.2.3991fd8.bin",
-      "md5": "18d2eb5e8b5ebed43f1193f323b6f472",
+      "md5": "8a51a2855db80a8cf27303e664f89e24",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 127664,
-  "flash_bytes": 2307047,
+  "flash_bytes": 2307843,
   "part": [
     {
       "name": "nvs",

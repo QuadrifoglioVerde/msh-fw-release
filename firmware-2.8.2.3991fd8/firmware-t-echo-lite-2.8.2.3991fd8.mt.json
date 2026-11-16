@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-echo-lite",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-echo-lite-2.8.2.3991fd8.elf",
-      "md5": "2085edea502d68ce509fad9696fb498c",
+      "md5": "e199aac026eb6600f98d53027d0e4ed9",
       "bytes": 1176468
     },
     {
       "name": "firmware-t-echo-lite-2.8.2.3991fd8.hex",
-      "md5": "ebaf8bdd6fdf6929b32092a065b491c4",
+      "md5": "819fb12f1b2f7827f02a9f66293bbe56",
       "bytes": 2033846
     },
     {
       "name": "firmware-t-echo-lite-2.8.2.3991fd8.uf2",
-      "md5": "12cd7db11350622a7f57b717995e1c41",
+      "md5": "e6e81f0a0c5cc559fafbb6fc60df5e18",
       "bytes": 1446400
     },
     {
       "name": "firmware-t-echo-lite-2.8.2.3991fd8-ota.zip",
-      "md5": "44bd1986c28677829d7df5ffd318dce3",
+      "md5": "22f87150435869fd7f9d9ca6f574e6c1",
       "bytes": 724015
     }
   ],

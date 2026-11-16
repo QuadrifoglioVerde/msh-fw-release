@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "radiomaster_900_bandit",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-radiomaster_900_bandit-2.8.2.3991fd8.elf",
-      "md5": "a9c0e76dbf00e186d669f31845082ec1",
-      "bytes": 39868624
+      "md5": "aec157100c2c0161ee43d3d76597db3e",
+      "bytes": 39876064
     },
     {
       "name": "firmware-radiomaster_900_bandit-2.8.2.3991fd8.bin",
-      "md5": "b9d7dae697d661e9282aed5231e88871",
-      "bytes": 2000816,
+      "md5": "75b07a430a8d18d57ce6db61f19e8056",
+      "bytes": 2001648,
       "part_name": "app0"
     },
     {
       "name": "firmware-radiomaster_900_bandit-2.8.2.3991fd8.factory.bin",
-      "md5": "23eaf04767b277acd57b5de519e0161d",
-      "bytes": 2066352
+      "md5": "b70451ad46a0e094be831ff0da72648e",
+      "bytes": 2067184
     },
     {
       "name": "littlefs-radiomaster_900_bandit-2.8.2.3991fd8.bin",
-      "md5": "d8ea6ad3728dc84011878fbca4ada296",
+      "md5": "22a40c9a967c01b6adfd550918ee3e37",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 109084,
-  "flash_bytes": 2025486,
+  "flash_bytes": 2026318,
   "part": [
     {
       "name": "nvs",

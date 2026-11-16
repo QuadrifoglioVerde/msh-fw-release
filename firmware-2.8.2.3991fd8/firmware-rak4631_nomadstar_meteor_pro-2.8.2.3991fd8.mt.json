@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak4631_nomadstar_meteor_pro",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.3991fd8.elf",
-      "md5": "bef02c65998b82b43c9f21f7b75d069b",
+      "md5": "e3388ab6f31fa22974cb596887549dc6",
       "bytes": 1173620
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.3991fd8.hex",
-      "md5": "035648ba4b570b8a9251179f0b074b45",
+      "md5": "00c2ffd8fd4a602f9c9bbcecb71f7466",
       "bytes": 2024862
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.3991fd8.uf2",
-      "md5": "ce480b9b04c37b23c98eaeb6193fa256",
+      "md5": "7ca27cdc66ecbfd16a8e57099535c2bb",
       "bytes": 1439744
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.3991fd8-ota.zip",
-      "md5": "a99d8a3f464c5df9a8486c0f62f137ea",
+      "md5": "b562bd48922b4992ada055fa3a999d68",
       "bytes": 720925
     }
   ],

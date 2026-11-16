@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-eth-elite",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-eth-elite-2.8.2.3991fd8.elf",
-      "md5": "9acda58c73b37ebfc1a6f7a8f6d444a4",
-      "bytes": 49497740
+      "md5": "2f5481dcd3d09111a79c261f55af0799",
+      "bytes": 49505412
     },
     {
       "name": "firmware-t-eth-elite-2.8.2.3991fd8.bin",
-      "md5": "d8660a8feacbd91bc1d803c618d60f6e",
-      "bytes": 2532384,
+      "md5": "745065c31028350c215ee7c39eea17f7",
+      "bytes": 2533168,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-eth-elite-2.8.2.3991fd8.factory.bin",
-      "md5": "c42980a3f4ec85e192a20cd37ae8524e",
-      "bytes": 2597920
+      "md5": "110c0d06cc747ddbd526bd4991c66078",
+      "bytes": 2598704
     },
     {
       "name": "littlefs-t-eth-elite-2.8.2.3991fd8.bin",
-      "md5": "fb939003e4bc93e810e7dba00e6bf40e",
+      "md5": "067641a589beaf58255a26bd403a3954",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 100488,
-  "flash_bytes": 2557203,
+  "flash_bytes": 2557995,
   "part": [
     {
       "name": "nvs",

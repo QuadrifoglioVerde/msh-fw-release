@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "t-impulse-plus",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-t-impulse-plus-2.8.2.3991fd8.elf",
-      "md5": "e8c57fd925a102b608459be9251ab01b",
+      "md5": "d6f44b3290687859153d7d5832bb4bfb",
       "bytes": 1159992
     },
     {
       "name": "firmware-t-impulse-plus-2.8.2.3991fd8.hex",
-      "md5": "2d0334f899e895e2a6dc1c0416ed57b0",
+      "md5": "68d561b3d6bdd96157e6558b0bbf9cf4",
       "bytes": 1991861
     },
     {
       "name": "firmware-t-impulse-plus-2.8.2.3991fd8.uf2",
-      "md5": "970fe5156380d7216bd0e4f10b63bb44",
+      "md5": "2ba8815fbc3822be7fc611736daa79ff",
       "bytes": 1416704
     },
     {
       "name": "firmware-t-impulse-plus-2.8.2.3991fd8-ota.zip",
-      "md5": "0a064c9c2cba12584627ab2da5a8e27e",
+      "md5": "c1b4b89866f3ad7e6f0667b64c3febc4",
       "bytes": 709105
     }
   ],

@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismeshtap",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismeshtap-2.8.2.3991fd8.elf",
-      "md5": "f08cb4e1ba0e4fa394394f2a86bd243d",
+      "md5": "0353c1575c594e86d8bbc70e8192a3b1",
       "bytes": 1187172
     },
     {
       "name": "firmware-rak_wismeshtap-2.8.2.3991fd8.hex",
-      "md5": "41bfdf5d0f6cb897743dba5ad4ddcf9d",
+      "md5": "2c4f64df74bed6509b02906a4479b22e",
       "bytes": 2064507
     },
     {
       "name": "firmware-rak_wismeshtap-2.8.2.3991fd8.uf2",
-      "md5": "3218c84ca95097ded0fa4cbc98335b3f",
+      "md5": "e5dd739d347ee7702735e9d418504276",
       "bytes": 1468416
     },
     {
       "name": "firmware-rak_wismeshtap-2.8.2.3991fd8-ota.zip",
-      "md5": "c0504f2cf316c75c3e75a075258230b7",
+      "md5": "2fee6aff5562de5cb3caa24b36ed1b96",
       "bytes": 734937
     }
   ],

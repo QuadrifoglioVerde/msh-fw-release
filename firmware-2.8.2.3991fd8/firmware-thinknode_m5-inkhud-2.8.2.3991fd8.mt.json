@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_m5-inkhud",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_m5-inkhud-2.8.2.3991fd8.elf",
-      "md5": "a67a611a9f4d53a5e390f880b52f6af6",
-      "bytes": 51911748
+      "md5": "8badbf217337c769e2f09804cb6652a5",
+      "bytes": 51919412
     },
     {
       "name": "firmware-thinknode_m5-inkhud-2.8.2.3991fd8.bin",
-      "md5": "219b1bf9d1f42acb8195aa17ea598a47",
-      "bytes": 2256960,
+      "md5": "de3523f6acd92ecd024452e008376523",
+      "bytes": 2257744,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_m5-inkhud-2.8.2.3991fd8.factory.bin",
-      "md5": "83cb32a99d161369f938822118be1e55",
-      "bytes": 2322496
+      "md5": "36a90c123558901ed6a7f44000093669",
+      "bytes": 2323280
     },
     {
       "name": "littlefs-thinknode_m5-inkhud-2.8.2.3991fd8.bin",
-      "md5": "517cca50afd1f29fa4ff8d32f2c346ad",
+      "md5": "6a1a7e53946b0d59320d25526d12daa2",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": true,
   "ram_bytes": 116160,
-  "flash_bytes": 2281775,
+  "flash_bytes": 2282571,
   "part": [
     {
       "name": "nvs",

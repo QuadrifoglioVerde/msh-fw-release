@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "m5stack-coreink",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-m5stack-coreink-2.8.2.3991fd8.elf",
-      "md5": "40d432975a0be081c3023ef0b80dde5d",
-      "bytes": 44165108
+      "md5": "aad8767ccd5defb0167ceb2fa0bea0cd",
+      "bytes": 44178776
     },
     {
       "name": "firmware-m5stack-coreink-2.8.2.3991fd8.bin",
-      "md5": "65b5372c0c3489bd5d0a07936668d56e",
-      "bytes": 2270496,
+      "md5": "13daa97f0ad81c07ef6df763cc76947d",
+      "bytes": 2271296,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-coreink-2.8.2.3991fd8.factory.bin",
-      "md5": "79f8d27e43cf1a4f4ee892aba76ceca7",
-      "bytes": 2336032
+      "md5": "64e94ba14e20bef6c28b722d4147e928",
+      "bytes": 2336832
     },
     {
       "name": "littlefs-m5stack-coreink-2.8.2.3991fd8.bin",
-      "md5": "21ca3f5ca392476fbb3507fa880df19b",
+      "md5": "ffbf183ca74b4342a20f41e0f43b7423",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 109452,
-  "flash_bytes": 2295178,
+  "flash_bytes": 2295974,
   "part": [
     {
       "name": "nvs",

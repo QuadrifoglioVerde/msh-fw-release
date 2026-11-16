@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "picomputer-s3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-picomputer-s3-2.8.2.3991fd8.elf",
-      "md5": "38d9f23ec6ab81e77dc3deff2b233cdd",
-      "bytes": 49931700
+      "md5": "bcc05e0fe3b1e96d10a65ecc0a20e2c6",
+      "bytes": 49939364
     },
     {
       "name": "firmware-picomputer-s3-2.8.2.3991fd8.bin",
-      "md5": "816a958cbc1b2964cf0d124644fdbcef",
-      "bytes": 2345584,
+      "md5": "e363a6f82cbe5f03766b12e23053d42f",
+      "bytes": 2346368,
       "part_name": "app0"
     },
     {
       "name": "firmware-picomputer-s3-2.8.2.3991fd8.factory.bin",
-      "md5": "1d9e2c209beae2bbe1b8e3a99bbcc071",
-      "bytes": 2411120
+      "md5": "15cf43e731a06d9d7ff76ab73fcb54ff",
+      "bytes": 2411904
     },
     {
       "name": "littlefs-picomputer-s3-2.8.2.3991fd8.bin",
-      "md5": "1fd69fdc020ca13ab5ed2c3679fcd578",
+      "md5": "9f7e43b305a0e6805ebfac05b0d48b94",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 99096,
-  "flash_bytes": 2370407,
+  "flash_bytes": 2371183,
   "part": [
     {
       "name": "nvs",

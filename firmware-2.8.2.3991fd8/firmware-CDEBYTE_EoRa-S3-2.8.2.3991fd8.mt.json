@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "CDEBYTE_EoRa-S3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.8.2.3991fd8.elf",
-      "md5": "784c9a4af3d3b3935fa21a4f42939a32",
-      "bytes": 47793452
+      "md5": "4310721b295bef609db97192b0e65b07",
+      "bytes": 47801124
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.8.2.3991fd8.bin",
-      "md5": "8c88e8023d47f4cf7fa5b71c91d1f323",
-      "bytes": 2331440,
+      "md5": "90b260a12af723c247054a8cc3bbaa6a",
+      "bytes": 2332224,
       "part_name": "app0"
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.8.2.3991fd8.factory.bin",
-      "md5": "e216dbc0e871e0102dc2b13d19f1fd99",
-      "bytes": 2396976
+      "md5": "83bed88d9e8be1649d4b9e44f3c6711e",
+      "bytes": 2397760
     },
     {
       "name": "littlefs-CDEBYTE_EoRa-S3-2.8.2.3991fd8.bin",
-      "md5": "9f5b6e177dcc4cb867c6ff29da5a5349",
+      "md5": "b81aa9ba5008c383c2b80c16764ceb47",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 98416,
-  "flash_bytes": 2356259,
+  "flash_bytes": 2357043,
   "part": [
     {
       "name": "nvs",

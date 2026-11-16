@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak_wismesh_pocket",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak_wismesh_pocket-2.8.2.3991fd8.elf",
-      "md5": "e5b6d8903e41c7df04344fa5a122c2d0",
+      "md5": "95f23591f807f92890276cc473813556",
       "bytes": 1180348
     },
     {
       "name": "firmware-rak_wismesh_pocket-2.8.2.3991fd8.hex",
-      "md5": "5b7302c4734d00ff9268a5fbc3f0cfa0",
+      "md5": "01040f90081c030030e964858499a34f",
       "bytes": 2037896
     },
     {
       "name": "firmware-rak_wismesh_pocket-2.8.2.3991fd8.uf2",
-      "md5": "86d19c24fd744abe801d349aa7999cf9",
+      "md5": "d16215771d2ae05fabce2735f197e997",
       "bytes": 1449472
     },
     {
       "name": "firmware-rak_wismesh_pocket-2.8.2.3991fd8-ota.zip",
-      "md5": "6f18bbb9ab2ec1307e06fb0927a4b5b3",
+      "md5": "bdc0adabd6ce0cf63f861e7f609db429",
       "bytes": 725497
     }
   ],

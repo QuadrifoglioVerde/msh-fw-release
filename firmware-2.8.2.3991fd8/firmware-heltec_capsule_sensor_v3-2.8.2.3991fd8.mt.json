@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec_capsule_sensor_v3",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.8.2.3991fd8.elf",
-      "md5": "8f5fe8a7a1d6156d5dbc410e3111b68f",
-      "bytes": 43001028
+      "md5": "4cdd3c17e9d16b64bad1a64fc8f0c5c2",
+      "bytes": 43008692
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.8.2.3991fd8.bin",
-      "md5": "63b30eabeaabd3a344f7154408e65710",
-      "bytes": 2076208,
+      "md5": "8bf7f9785018150a1357183759eeac34",
+      "bytes": 2076992,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.8.2.3991fd8.factory.bin",
-      "md5": "9ece5aa46261cedc9e01af04dbc76a76",
-      "bytes": 2141744
+      "md5": "56be2d4628637683b619b0429be5ef02",
+      "bytes": 2142528
     },
     {
       "name": "littlefs-heltec_capsule_sensor_v3-2.8.2.3991fd8.bin",
-      "md5": "76f2e0d582225dd89c54cf746b3a3e03",
+      "md5": "5aeee0911bd96240776f85b74c8a7ce6",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 117240,
-  "flash_bytes": 2101035,
+  "flash_bytes": 2101815,
   "part": [
     {
       "name": "nvs",

@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak4631",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak4631-2.8.2.3991fd8.elf",
-      "md5": "92b6e2bff4190f5ce7a58098bececf75",
+      "md5": "c3af0a6aabfef03ac75a0bdbd2fe4fc9",
       "bytes": 1179792
     },
     {
       "name": "firmware-rak4631-2.8.2.3991fd8.hex",
-      "md5": "3c4a5a5a90762743913c02a55aecb9d3",
+      "md5": "d69bba838f277b8747910e594b7f0c83",
       "bytes": 2036967
     },
     {
       "name": "firmware-rak4631-2.8.2.3991fd8.uf2",
-      "md5": "b7c4b419e901ec47c9e3461891cc2904",
+      "md5": "18662db0057d9fd866196bc017a11fbc",
       "bytes": 1448448
     },
     {
       "name": "firmware-rak4631-2.8.2.3991fd8-ota.zip",
-      "md5": "354cf4742f21709c030896c15def19cc",
+      "md5": "eb0f64f23216c23a1a7375b5294eb8e3",
       "bytes": 725103
     }
   ],

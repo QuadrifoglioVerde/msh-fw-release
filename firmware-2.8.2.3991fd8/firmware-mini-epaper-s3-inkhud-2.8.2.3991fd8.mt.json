@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "mini-epaper-s3-inkhud",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.8.2.3991fd8.elf",
-      "md5": "00a369097234f99c4f24e37309e16e9e",
-      "bytes": 52142440
+      "md5": "17e4699160ab7fdbfd95e0313f460a3f",
+      "bytes": 52150104
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.8.2.3991fd8.bin",
-      "md5": "b58cdce8e8c7158c6b3ef9753cdd9c96",
-      "bytes": 2291632,
+      "md5": "c50fdf4809febbc281fffcd52bda7a54",
+      "bytes": 2292448,
       "part_name": "app0"
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.8.2.3991fd8.factory.bin",
-      "md5": "58ba5fc81adc0b3986a72858f51c6d2d",
-      "bytes": 2357168
+      "md5": "06bdc3f977a51e3b879cfc94e053765f",
+      "bytes": 2357984
     },
     {
       "name": "littlefs-mini-epaper-s3-inkhud-2.8.2.3991fd8.bin",
-      "md5": "16d24b6e2cb508cdc653240bb7fca2e8",
+      "md5": "1d5b14da640d1f506a3bf5303ade82b5",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": true,
   "ram_bytes": 87440,
-  "flash_bytes": 2316459,
+  "flash_bytes": 2317263,
   "part": [
     {
       "name": "nvs",

@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-mesh-node-t114",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t114-2.8.2.3991fd8.elf",
-      "md5": "114d7c4a5658c4097e3fd83b1d871ae4",
+      "md5": "6079833805ffd92988bc6f240a9df7c2",
       "bytes": 1185648
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.8.2.3991fd8.hex",
-      "md5": "28126ade5c16739dbaf21dab574ece8c",
+      "md5": "00cc3b9c467018e02d641f630b7e09d8",
       "bytes": 2046806
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.8.2.3991fd8.uf2",
-      "md5": "bdd4a0d340324d5dfd68bcb3f6340625",
+      "md5": "56a9a0930d647b2a4813d4793104d8f4",
       "bytes": 1455616
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.8.2.3991fd8-ota.zip",
-      "md5": "1737bb8f6a74425fe1abaff88a89d843",
+      "md5": "ea0456c2a3e5a027fc7cef3d6d33fdc4",
       "bytes": 728683
     }
   ],

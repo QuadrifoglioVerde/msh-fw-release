@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "tlora-v2-1-1_6",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-tlora-v2-1-1_6-2.8.2.3991fd8.elf",
-      "md5": "2368ee6c25965b9e73d45a2791c02c82",
-      "bytes": 39796748
+      "md5": "5ae019f7ed958384c9ff0e9631ccbfae",
+      "bytes": 39804192
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.8.2.3991fd8.bin",
-      "md5": "5c420256d825f88001ddb6f39faab751",
-      "bytes": 2022384,
+      "md5": "cfd0730ad7a3bf143091f5c96c89bafa",
+      "bytes": 2023200,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.8.2.3991fd8.factory.bin",
-      "md5": "e70f627be88aefb83034e4b61db543a1",
-      "bytes": 2087920
+      "md5": "32e66aaa63703148074a054ee6383165",
+      "bytes": 2088736
     },
     {
       "name": "littlefs-tlora-v2-1-1_6-2.8.2.3991fd8.bin",
-      "md5": "ab4ec1f02ce0d9025aa998762adfafeb",
+      "md5": "e76e43cfab1430ca92d6a1c8b36f7ca1",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 108740,
-  "flash_bytes": 2047066,
+  "flash_bytes": 2047874,
   "part": [
     {
       "name": "nvs",

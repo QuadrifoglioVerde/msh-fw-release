@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "axiometa-genesis-mini",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-axiometa-genesis-mini-2.8.2.3991fd8.elf",
-      "md5": "9a7f6688ff548d11c7a613bea1cf7721",
-      "bytes": 50104076
+      "md5": "06ad9fccbc757283a6743121372a7d3e",
+      "bytes": 50115848
     },
     {
       "name": "firmware-axiometa-genesis-mini-2.8.2.3991fd8.bin",
-      "md5": "212a4fd745749bef08c38b009450f28a",
-      "bytes": 2330224,
+      "md5": "67b92571bae94424112bebe4eaceaeca",
+      "bytes": 2331008,
       "part_name": "app0"
     },
     {
       "name": "firmware-axiometa-genesis-mini-2.8.2.3991fd8.factory.bin",
-      "md5": "cc264834894e384d8e5996fe8a9eba5f",
-      "bytes": 2395760
+      "md5": "02bd9392284fc70f1389c36f929728ed",
+      "bytes": 2396544
     },
     {
       "name": "littlefs-axiometa-genesis-mini-2.8.2.3991fd8.bin",
-      "md5": "6388fb68cb66dde4378da7c73ff49913",
+      "md5": "267bf01d8e407469d9db7641e1c00dc4",
       "bytes": 786432,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 98856,
-  "flash_bytes": 2355043,
+  "flash_bytes": 2355827,
   "part": [
     {
       "name": "nvs",

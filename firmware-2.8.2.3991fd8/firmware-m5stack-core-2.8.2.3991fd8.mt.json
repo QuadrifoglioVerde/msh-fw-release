@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "m5stack-core",
   "mcu": "esp32",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-m5stack-core-2.8.2.3991fd8.elf",
-      "md5": "0cff5cb9238299936b4240aab62a462c",
-      "bytes": 42029108
+      "md5": "6c098c1c280439f70d72d7c2341f68db",
+      "bytes": 42036548
     },
     {
       "name": "firmware-m5stack-core-2.8.2.3991fd8.bin",
-      "md5": "a8753b2f68bfca3f20afe4dbc790a093",
-      "bytes": 2073984,
+      "md5": "c95053805f6d4664d31bca3600a59868",
+      "bytes": 2074816,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-core-2.8.2.3991fd8.factory.bin",
-      "md5": "b397f1036764cdf51725eec85e5636ed",
-      "bytes": 2139520
+      "md5": "3db5ec41f094f760dfebebfdc5c38e20",
+      "bytes": 2140352
     },
     {
       "name": "littlefs-m5stack-core-2.8.2.3991fd8.bin",
-      "md5": "a9e57f6531c89558680c4a104cc3016a",
+      "md5": "a767d8d00f305c0d75fdf7432340b864",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 109612,
-  "flash_bytes": 2098662,
+  "flash_bytes": 2099490,
   "part": [
     {
       "name": "nvs",

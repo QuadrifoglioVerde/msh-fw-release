@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_m9-tft",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_m9-tft-2.8.2.3991fd8.elf",
-      "md5": "a3993a162a6e11bfb4811155a6934e99",
-      "bytes": 61441304
+      "md5": "6e191300f2c226533870e26173afa82c",
+      "bytes": 61448968
     },
     {
       "name": "firmware-thinknode_m9-tft-2.8.2.3991fd8.bin",
-      "md5": "4428b8cfcb308eaa7bb19c322aa1d108",
-      "bytes": 3890384,
+      "md5": "78c27f723ab519d178cfc8c76aef5744",
+      "bytes": 3891168,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_m9-tft-2.8.2.3991fd8.factory.bin",
-      "md5": "cf1d1007ba1209a8c69867eff3945dfe",
-      "bytes": 3955920
+      "md5": "86777eb93e021346fa0435d6e960c650",
+      "bytes": 3956704
     },
     {
       "name": "littlefs-thinknode_m9-tft-2.8.2.3991fd8.bin",
-      "md5": "2ffb04448bbde96c32da1cc167fde199",
+      "md5": "475e87f5f8f31cdeebe5d518c2b37485",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": true,
   "has_inkhud": false,
   "ram_bytes": 113096,
-  "flash_bytes": 3915207,
+  "flash_bytes": 3915991,
   "part": [
     {
       "name": "nvs",

@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "rak2560",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-rak2560-2.8.2.3991fd8.elf",
-      "md5": "832b3b7d5391868c77c3fa5413c83984",
+      "md5": "81c640253023dc44fa470623e632cfef",
       "bytes": 1177692
     },
     {
       "name": "firmware-rak2560-2.8.2.3991fd8.hex",
-      "md5": "5695328b1a0bd058825491fb6e57e8aa",
+      "md5": "bcf8098b41e3b028152b9792646591cc",
       "bytes": 2034611
     },
     {
       "name": "firmware-rak2560-2.8.2.3991fd8.uf2",
-      "md5": "b217ceb45d7435eb580fa0210d457541",
+      "md5": "b5192c3522dd72cdb9464e91bdfb8f27",
       "bytes": 1446912
     },
     {
       "name": "firmware-rak2560-2.8.2.3991fd8-ota.zip",
-      "md5": "a1df854e93e3cffa021ee2bff3e72b90",
+      "md5": "e277a9d4e4528e61c66cd19bef57060d",
       "bytes": 724263
     }
   ],

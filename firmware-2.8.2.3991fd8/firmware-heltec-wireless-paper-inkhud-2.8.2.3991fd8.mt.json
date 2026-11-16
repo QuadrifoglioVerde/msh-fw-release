@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-wireless-paper-inkhud",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.8.2.3991fd8.elf",
-      "md5": "62412f7b56c1d216fa08a77ba0538266",
-      "bytes": 52058340
+      "md5": "963cb4f7d1346c90a03303c8e01fffc3",
+      "bytes": 52066008
     },
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.8.2.3991fd8.bin",
-      "md5": "28e8146b319fb24bd203f1e36bb6600d",
-      "bytes": 2257056,
+      "md5": "e89e60ec4622f72464098746b005e69d",
+      "bytes": 2257856,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.8.2.3991fd8.factory.bin",
-      "md5": "e3aa5ff396333484fa8e49d1291f6716",
-      "bytes": 2322592
+      "md5": "8cfe178f1ba4b01a574b048350358df1",
+      "bytes": 2323392
     },
     {
       "name": "littlefs-heltec-wireless-paper-inkhud-2.8.2.3991fd8.bin",
-      "md5": "302956d121901c71eb09339ddf95ba27",
+      "md5": "bbc1b1a360b4db1cb6b1e75c0ec9ed6d",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": true,
   "ram_bytes": 116824,
-  "flash_bytes": 2281879,
+  "flash_bytes": 2282675,
   "part": [
     {
       "name": "nvs",

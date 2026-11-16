@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "heltec-mesh-node-t096",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t096-2.8.2.3991fd8.elf",
-      "md5": "e5efbf6b889d512debe994ef9415c295",
+      "md5": "448fa9ebe30bb356278351152c444e43",
       "bytes": 1192832
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.8.2.3991fd8.hex",
-      "md5": "d824542159070d75ced2f3ce8760c886",
+      "md5": "700783fb5cbf0595a41cb5bb9550c3b0",
       "bytes": 2063080
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.8.2.3991fd8.uf2",
-      "md5": "71f8ad34bc548865069b8a6b88839cad",
+      "md5": "4ca6e7d27572b52063683de228e14333",
       "bytes": 1467392
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.8.2.3991fd8-ota.zip",
-      "md5": "e0d7149fe58ddd6b211127f67ed306a0",
+      "md5": "f76ac23a25001e646831bb0546327048",
       "bytes": 734467
     }
   ],

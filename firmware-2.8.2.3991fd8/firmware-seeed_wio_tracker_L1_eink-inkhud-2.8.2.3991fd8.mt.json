@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "seeed_wio_tracker_L1_eink-inkhud",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.8.2.3991fd8.elf",
-      "md5": "a12a7a23dcf40069cbb94681fa2e4810",
+      "md5": "5005a57ebb07cdf8ef4336ee0196e527",
       "bytes": 1137172
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.8.2.3991fd8.hex",
-      "md5": "2e67891901d2e19a4d8bc53201d56c61",
+      "md5": "c3997365d5e008d29ae1f0c4041a76b9",
       "bytes": 1962987
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.8.2.3991fd8.uf2",
-      "md5": "588690a2d2f32141d12b52e6584889c0",
+      "md5": "b46e68dea2c416a46b4614ed521899c6",
       "bytes": 1396224
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.8.2.3991fd8-ota.zip",
-      "md5": "1fe92d3c7a9c48dec67b407daa045ad4",
+      "md5": "a78870d146b9a07c76c06e390931eb69",
       "bytes": 698949
     }
   ],

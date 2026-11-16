@@ -1,28 +1,28 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "seeed_mesh_tracker_X1",
   "mcu": "nrf52840",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-seeed_mesh_tracker_X1-2.8.2.3991fd8.elf",
-      "md5": "00443a4099457a741648907079fa5af2",
+      "md5": "4f4a572a7bc5e389ebec224d2d05f30a",
       "bytes": 847644
     },
     {
       "name": "firmware-seeed_mesh_tracker_X1-2.8.2.3991fd8.hex",
-      "md5": "4fe838755afe69962e9e0801cee22616",
+      "md5": "e24cd5106ac38821510fb2906c23b1c6",
       "bytes": 1441431
     },
     {
       "name": "firmware-seeed_mesh_tracker_X1-2.8.2.3991fd8.uf2",
-      "md5": "22b9d8392aa1751f9e894a833f3372c0",
+      "md5": "2536bebabf557428a5f0a63161262bc7",
       "bytes": 1025024
     },
     {
       "name": "firmware-seeed_mesh_tracker_X1-2.8.2.3991fd8-ota.zip",
-      "md5": "2449528dfc7d9cb571f2a25f9165f5e6",
+      "md5": "fe323ec0b967cad123705f4a504a2f42",
       "bytes": 513459
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "thinknode_m7",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-thinknode_m7-2.8.2.3991fd8.elf",
-      "md5": "2ed0cd0db016acbc9aa8d28e63473836",
-      "bytes": 43342620
+      "md5": "812daaab5a29b7f2deb16396932345cb",
+      "bytes": 43350340
     },
     {
       "name": "firmware-thinknode_m7-2.8.2.3991fd8.bin",
-      "md5": "881b4bc8b0a6eac20a70da3116d8e7b1",
-      "bytes": 2373296,
+      "md5": "12fbe486abc4700b74f4163145ad4a4e",
+      "bytes": 2374064,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_m7-2.8.2.3991fd8.factory.bin",
-      "md5": "05ae6fbd8b7801d362e207c56f6a1bad",
-      "bytes": 2438832
+      "md5": "81e2a458041eff23bc6abeddd5084403",
+      "bytes": 2439600
     },
     {
       "name": "littlefs-thinknode_m7-2.8.2.3991fd8.bin",
-      "md5": "6601fccba89caeabcf7890e3f7276014",
+      "md5": "7f654df5816f44798a0c29b50bf7c408",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": false,
   "has_inkhud": false,
   "ram_bytes": 88472,
-  "flash_bytes": 2398119,
+  "flash_bytes": 2398891,
   "part": [
     {
       "name": "nvs",

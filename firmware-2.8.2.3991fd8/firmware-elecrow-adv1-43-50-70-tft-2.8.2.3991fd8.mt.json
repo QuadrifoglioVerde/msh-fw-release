@@ -1,29 +1,29 @@
 {
   "version": "2.8.2.3991fd8",
-  "build_epoch": 1793750400,
+  "build_epoch": 1794787200,
   "platformioTarget": "elecrow-adv1-43-50-70-tft",
   "mcu": "esp32s3",
   "repo": "QuadrifoglioVerde/msh-fw",
   "files": [
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.8.2.3991fd8.elf",
-      "md5": "f9dc6688366e54d267dd872e3fa9500c",
-      "bytes": 55354276
+      "md5": "a376b8f37f9151c445e2f260403f04a1",
+      "bytes": 55361960
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.8.2.3991fd8.bin",
-      "md5": "8750aa8dc5d1f953f839a63dcc29e437",
-      "bytes": 3547344,
+      "md5": "6a5a44d01d83177d319310d9d4002f8a",
+      "bytes": 3548176,
       "part_name": "app0"
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.8.2.3991fd8.factory.bin",
-      "md5": "01a5f8af997535be1daeee8a210f7b36",
-      "bytes": 3612880
+      "md5": "700de4b12b8d835e5a16cf7d2803d376",
+      "bytes": 3613712
     },
     {
       "name": "littlefs-elecrow-adv1-43-50-70-tft-2.8.2.3991fd8.bin",
-      "md5": "4445e455ec43f739419783fb414e8007",
+      "md5": "f390063ed284c009d15e55baf43cb816",
       "bytes": 3538944,
       "part_name": "spiffs"
     },
@@ -37,7 +37,7 @@
   "has_mui": true,
   "has_inkhud": false,
   "ram_bytes": 99524,
-  "flash_bytes": 3572167,
+  "flash_bytes": 3572991,
   "part": [
     {
       "name": "nvs",
