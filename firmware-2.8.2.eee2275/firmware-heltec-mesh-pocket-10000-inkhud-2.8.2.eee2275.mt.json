@@ -1,0 +1,41 @@
+{
+  "version": "2.8.2.eee2275",
+  "build_epoch": 1794787200,
+  "platformioTarget": "heltec-mesh-pocket-10000-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.8.2.eee2275.elf",
+      "md5": "86bd3e289a609063d859dc805838e975",
+      "bytes": 1097704
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.8.2.eee2275.hex",
+      "md5": "567d1b2409375280ff818568f9451060",
+      "bytes": 1890504
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.8.2.eee2275.uf2",
+      "md5": "27aa30fb52c7cc35035bd8f80ed9a3e6",
+      "bytes": 1344512
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.8.2.eee2275-ota.zip",
+      "md5": "e7d2e99c40d051162222edd29daae75e",
+      "bytes": 673175
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 85680,
+  "flash_bytes": 672096,
+  "hwModel": 94,
+  "hwModelSlug": "HELTEC_MESH_POCKET",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Heltec Mesh Pocket",
+  "key": "heltec_mesh_pocket",
+  "variant": "10000mAh InkHUD",
+  "requiresDfu": true
+}

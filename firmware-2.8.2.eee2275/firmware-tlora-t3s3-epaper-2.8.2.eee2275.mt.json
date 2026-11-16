@@ -1,0 +1,96 @@
+{
+  "version": "2.8.2.eee2275",
+  "build_epoch": 1794787200,
+  "platformioTarget": "tlora-t3s3-epaper",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-tlora-t3s3-epaper-2.8.2.eee2275.elf",
+      "md5": "083dafcc9c5e325d27cfb660e4565815",
+      "bytes": 44970084
+    },
+    {
+      "name": "firmware-tlora-t3s3-epaper-2.8.2.eee2275.bin",
+      "md5": "b41acb17118e3b61fa83e16d2cc96a8b",
+      "bytes": 2136336,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-tlora-t3s3-epaper-2.8.2.eee2275.factory.bin",
+      "md5": "55bc7309904134e4db962f76b52c3e77",
+      "bytes": 2201872
+    },
+    {
+      "name": "littlefs-tlora-t3s3-epaper-2.8.2.eee2275.bin",
+      "md5": "35216c70df66a60a6eb25d0e9ea698ee",
+      "bytes": 786432,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 92184,
+  "flash_bytes": 2161159,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x290000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x2A0000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x340000",
+      "size": "0x0C0000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 16,
+  "hwModelSlug": "TLORA_T3_S3",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "LILYGO T-LoRa T3-S3 E-Ink",
+  "supportLevel": 1,
+  "images": [
+    "tlora-t3s3-epaper.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "requiresDfu": true
+}

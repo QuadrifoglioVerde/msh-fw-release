@@ -1,0 +1,37 @@
+{
+  "version": "2.8.2.eee2275",
+  "build_epoch": 1794787200,
+  "platformioTarget": "heltec-mesh-solar-inkhud",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-mesh-solar-inkhud-2.8.2.eee2275.elf",
+      "md5": "7fa5eec0be33ada9278dacbf2679a8a6",
+      "bytes": 1145212
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-inkhud-2.8.2.eee2275.hex",
+      "md5": "ccd54dabbacfd04fbb798c03711491c8",
+      "bytes": 1978856
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-inkhud-2.8.2.eee2275.uf2",
+      "md5": "0f62cd3c07d19edf3254ae17833a57e3",
+      "bytes": 1407488
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-inkhud-2.8.2.eee2275-ota.zip",
+      "md5": "633b1b2d6d90e07fd24348a7d1763007",
+      "bytes": 704541
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 94600,
+  "flash_bytes": 703504,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "heltec-mesh-solar-inkhud",
+  "activelySupported": false
+}
