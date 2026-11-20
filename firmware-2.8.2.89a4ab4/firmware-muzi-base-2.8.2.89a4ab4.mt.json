@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "muzi-base",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-muzi-base-2.8.2.89a4ab4.elf",
+      "md5": "ec4a42c26cbdeb17e165a45fee76b920",
+      "bytes": 1200524
+    },
+    {
+      "name": "firmware-muzi-base-2.8.2.89a4ab4.hex",
+      "md5": "629cbb530866f6b051af80f3cebd460f",
+      "bytes": 2073462
+    },
+    {
+      "name": "firmware-muzi-base-2.8.2.89a4ab4.uf2",
+      "md5": "b2592aae76d4eab37ab7ddf44f49acb9",
+      "bytes": 1474560
+    },
+    {
+      "name": "firmware-muzi-base-2.8.2.89a4ab4-ota.zip",
+      "md5": "e085a10f190cf5bb44c68d59d6de95a1",
+      "bytes": 738091
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96000,
+  "flash_bytes": 737144,
+  "hwModel": 93,
+  "hwModelSlug": "MUZI_BASE",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "muzi BASE",
+  "supportLevel": 1,
+  "images": [
+    "muzi_base.svg"
+  ],
+  "tags": [
+    "muzi"
+  ],
+  "requiresDfu": true
+}

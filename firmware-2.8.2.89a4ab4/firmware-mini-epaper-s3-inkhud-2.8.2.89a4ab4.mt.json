@@ -1,0 +1,86 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "mini-epaper-s3-inkhud",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-mini-epaper-s3-inkhud-2.8.2.89a4ab4.elf",
+      "md5": "b5b4373ff02b3ca30303c5a943f9a58f",
+      "bytes": 52149332
+    },
+    {
+      "name": "firmware-mini-epaper-s3-inkhud-2.8.2.89a4ab4.bin",
+      "md5": "a24f193ba1c29db1a3c691ab29aa271d",
+      "bytes": 2292256,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-mini-epaper-s3-inkhud-2.8.2.89a4ab4.factory.bin",
+      "md5": "e2bc04fda7c648179b11fd65417a52f2",
+      "bytes": 2357792
+    },
+    {
+      "name": "littlefs-mini-epaper-s3-inkhud-2.8.2.89a4ab4.bin",
+      "md5": "822f57b7ac599404305183ceac97a6bf",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 87440,
+  "flash_bytes": 2317083,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-s3",
+  "displayName": "mini-epaper-s3-inkhud",
+  "activelySupported": false
+}

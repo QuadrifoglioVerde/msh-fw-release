@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "heltec-rc52",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-rc52-2.8.2.89a4ab4.elf",
+      "md5": "685eccbc344d1e94c1f9e8a60d712dcc",
+      "bytes": 1209268
+    },
+    {
+      "name": "firmware-heltec-rc52-2.8.2.89a4ab4.hex",
+      "md5": "9af9598cc9195cace8d596b1b2164606",
+      "bytes": 2095451
+    },
+    {
+      "name": "firmware-heltec-rc52-2.8.2.89a4ab4.uf2",
+      "md5": "9d15a003ae89becb49741143efe8ad37",
+      "bytes": 1489920
+    },
+    {
+      "name": "firmware-heltec-rc52-2.8.2.89a4ab4-ota.zip",
+      "md5": "f3052f97cc63f90ffa567ed74908318e",
+      "bytes": 745919
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96816,
+  "flash_bytes": 744960,
+  "hwModel": 142,
+  "hwModelSlug": "HELTEC_RC52",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Heltec RC52",
+  "supportLevel": 1,
+  "images": [
+    "heltec-rc52.svg"
+  ],
+  "tags": [
+    "Heltec"
+  ],
+  "requiresDfu": true
+}

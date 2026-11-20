@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "rak4631_nomadstar_meteor_pro",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.89a4ab4.elf",
+      "md5": "cb45153a646bb1f2b25ad76967a975b6",
+      "bytes": 1173632
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.89a4ab4.hex",
+      "md5": "dfa1886f16991a0ae8f51503a44864de",
+      "bytes": 2024592
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.89a4ab4.uf2",
+      "md5": "2f6f49761f6f39f075be700000662e92",
+      "bytes": 1439744
+    },
+    {
+      "name": "firmware-rak4631_nomadstar_meteor_pro-2.8.2.89a4ab4-ota.zip",
+      "md5": "2aebf75754842ce6a9440ebb8eb75a2a",
+      "bytes": 720829
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96608,
+  "flash_bytes": 719768,
+  "hwModel": 96,
+  "hwModelSlug": "NOMADSTAR_METEOR_PRO",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "NomadStar Meteor Pro",
+  "supportLevel": 1,
+  "images": [
+    "meteor_pro.svg"
+  ],
+  "tags": [
+    "NomadStar"
+  ],
+  "requiresDfu": true
+}

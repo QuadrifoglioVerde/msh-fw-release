@@ -1,0 +1,46 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "rak_wismesh_repeater_mini_hp",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-rak_wismesh_repeater_mini_hp-2.8.2.89a4ab4.elf",
+      "md5": "261506dbb9aec56f064d435e2e6aa56d",
+      "bytes": 1110104
+    },
+    {
+      "name": "firmware-rak_wismesh_repeater_mini_hp-2.8.2.89a4ab4.hex",
+      "md5": "e908021d97e704fbd044f1a3ea528628",
+      "bytes": 1898723
+    },
+    {
+      "name": "firmware-rak_wismesh_repeater_mini_hp-2.8.2.89a4ab4.uf2",
+      "md5": "efb015936f8023810daa8f48d9280b8e",
+      "bytes": 1350144
+    },
+    {
+      "name": "firmware-rak_wismesh_repeater_mini_hp-2.8.2.89a4ab4-ota.zip",
+      "md5": "5d2bad96d17e68bdaf3988423f13fc9b",
+      "bytes": 676076
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 95624,
+  "flash_bytes": 675016,
+  "hwModel": 117,
+  "hwModelSlug": "RAK3401",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "RAK WisMesh Repeater Mini V2 HP",
+  "supportLevel": 1,
+  "images": [
+    "rak3401.svg"
+  ],
+  "tags": [
+    "RAK"
+  ],
+  "requiresDfu": true
+}

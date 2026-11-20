@@ -1,0 +1,37 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "thinknode_m4",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-thinknode_m4-2.8.2.89a4ab4.elf",
+      "md5": "3a9d8ca02c3eea6b335c6f27245e9d72",
+      "bytes": 1162928
+    },
+    {
+      "name": "firmware-thinknode_m4-2.8.2.89a4ab4.hex",
+      "md5": "cf10f09af77776226b40a74732219b6a",
+      "bytes": 2006695
+    },
+    {
+      "name": "firmware-thinknode_m4-2.8.2.89a4ab4.uf2",
+      "md5": "09c6a9ea0ceda3ecd8de95551080296d",
+      "bytes": 1426944
+    },
+    {
+      "name": "firmware-thinknode_m4-2.8.2.89a4ab4-ota.zip",
+      "md5": "ee93b1e9b72528bdc4b1ed780b736885",
+      "bytes": 714365
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 87712,
+  "flash_bytes": 713400,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "thinknode_m4",
+  "activelySupported": false
+}

@@ -1,0 +1,102 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "makerfabs_nomad_terminal-tft",
+  "mcu": "esp32s3",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-makerfabs_nomad_terminal-tft-2.8.2.89a4ab4.elf",
+      "md5": "c3a19e0b38fffdc2acf45d164c9188fa",
+      "bytes": 60701540
+    },
+    {
+      "name": "firmware-makerfabs_nomad_terminal-tft-2.8.2.89a4ab4.bin",
+      "md5": "1c4a1ae6f6bf0180b7b09e94da1b37a5",
+      "bytes": 3806384,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-makerfabs_nomad_terminal-tft-2.8.2.89a4ab4.factory.bin",
+      "md5": "af7f3f1b2728f9c9946b50322c438b2d",
+      "bytes": 3871920
+    },
+    {
+      "name": "littlefs-makerfabs_nomad_terminal-tft-2.8.2.89a4ab4.bin",
+      "md5": "23c99154096c643eb63faa43ed2d711c",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false,
+  "ram_bytes": 111032,
+  "flash_bytes": 3831207,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 149,
+  "hwModelSlug": "MAKERFABS_NOMAD_TERMINAL",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "Makerfabs Nomad Terminal",
+  "supportLevel": 2,
+  "tags": [
+    "Makerfabs"
+  ],
+  "requiresDfu": false,
+  "partitionScheme": "16MB"
+}

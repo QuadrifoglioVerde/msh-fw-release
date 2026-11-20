@@ -1,0 +1,37 @@
+{
+  "version": "2.8.2.89a4ab4",
+  "build_epoch": 1795132800,
+  "platformioTarget": "heltec-mesh-solar-tft",
+  "mcu": "nrf52840",
+  "repo": "QuadrifoglioVerde/msh-fw",
+  "files": [
+    {
+      "name": "firmware-heltec-mesh-solar-tft-2.8.2.89a4ab4.elf",
+      "md5": "bc231dc2964ce8aeb70980b57e1254bb",
+      "bytes": 1190580
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-tft-2.8.2.89a4ab4.hex",
+      "md5": "2297cb83f465806eb97f55cb812cbcdd",
+      "bytes": 2053601
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-tft-2.8.2.89a4ab4.uf2",
+      "md5": "b648a268865c6e6d5b558a28e98c730b",
+      "bytes": 1460224
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-tft-2.8.2.89a4ab4-ota.zip",
+      "md5": "392b8dc25fe5128c6db4382395c39523",
+      "bytes": 731099
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 105272,
+  "flash_bytes": 730080,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "heltec-mesh-solar-tft",
+  "activelySupported": false
+}
